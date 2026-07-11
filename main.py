@@ -260,7 +260,7 @@ class RocPetConfirmPlugin(Star):
     async def _call_api(self, attribute: str, data: str) -> str:
         try:
             timeout = aiohttp.ClientTimeout(total=30)
-            async with aiohttp.ClientSession(timeout=timeout) as session:
+            async with aiohttp.ClientSession(timeout=timeout, trust_env=True) as session:
                 payload = {"attribute": attribute, "data": data}
                 async with session.post(self.api_url, json=payload) as resp:
                     if resp.status == 200:
