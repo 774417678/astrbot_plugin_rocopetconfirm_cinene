@@ -27,6 +27,6 @@
     "description": "渲染图片开关",
     "type": "bool",
     "default": true,
-    "hint": "关闭后直接返回文字而非图片"
+    "hint": "关闭后直接返回文字而非图片，无法渲染请重启astrbot，网络错误请尝试关闭vpn"
   }
 }
