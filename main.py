@@ -268,6 +268,21 @@ class RocPetConfirmPlugin(Star):
                         return result.get("result", "查询无结果")
                     return f"计算服务返回异常: HTTP {resp.status}"
         except Exception as e:
+            # 域名连接失败时尝试 IP 直连
+            if "cinene.cloud" in self.api_url:
+                try:
+                    import ssl
+                    fallback_url = self.api_url.replace("cinene.cloud", "101.34.229.5")
+                    ctx = ssl.create_default_context()
+                    ctx.check_hostname = False
+                    ctx.verify_mode = ssl.CERT_NONE
+                    async with aiohttp.ClientSession(timeout=aiohttp.ClientTimeout(total=15), trust_env=True) as s2:
+                        async with s2.post(fallback_url, json={"attribute": attribute, "data": data}, ssl=ctx) as resp:
+                            if resp.status == 200:
+                                result = await resp.json()
+                                return result.get("result", "查询无结果")
+                except Exception as e2:
+                    logger.error(f"IP直连也失败: {e2}")
             logger.error(f"计算服务调用失败: {e}")
             return f"计算服务调用失败: {e}"
 
