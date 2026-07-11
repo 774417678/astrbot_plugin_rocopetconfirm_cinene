@@ -1,0 +1,32 @@
+{
+  "trigger_word": {
+    "description": "触发词（请注意结尾空格！），在群聊中发送此触发词后跟查询内容即可触发",
+    "type": "string",
+    "default": "查询 ",
+    "hint": "例如设置为'查询 '（带空格），则用户发送'查询 火花'即可查询"
+  },
+  "enable_spirit": {
+    "description": "精灵查询开关",
+    "type": "bool",
+    "default": true,
+    "hint": "关闭后精灵名称/带体重查询将不生效"
+  },
+  "enable_egg_group": {
+    "description": "蛋组查询开关",
+    "type": "bool",
+    "default": true,
+    "hint": "关闭后蛋组查询将不生效"
+  },
+  "enable_predict": {
+    "description": "预测查询开关",
+    "type": "bool",
+    "default": true,
+    "hint": "关闭后身高体重预测将不生效"
+  },
+  "enable_render_image": {
+    "description": "渲染图片开关",
+    "type": "bool",
+    "default": true,
+    "hint": "关闭后直接返回文字而非图片"
+  }
+}
