@@ -1,14 +1,58 @@
-# astrbot-plugin-helloworld
+# 洛克王国宠物查询插件 (RocoPetConfirm)
 
-AstrBot 插件模板 / A template plugin for AstrBot plugin feature
+用于《洛克王国：世界》的精灵数据查询、孵蛋预测、蛋组查询。插件端执行本地模糊匹配，云端完成计算，返回图片结果。
 
-> [!NOTE]
-> This repo is just a template of [AstrBot](https://github.com/AstrBotDevs/AstrBot) Plugin.
-> 
-> [AstrBot](https://github.com/AstrBotDevs/AstrBot) is an agentic assistant for both personal and group conversations. It can be deployed across dozens of mainstream instant messaging platforms, including QQ, Telegram, Feishu, DingTalk, Slack, LINE, Discord, Matrix, etc. In addition, it provides a reliable and extensible conversational AI infrastructure for individuals, developers, and teams. Whether you need a personal AI companion, an intelligent customer support agent, an automation assistant, or an enterprise knowledge base, AstrBot enables you to quickly build AI applications directly within your existing messaging workflows.
+## 功能
 
-# Supports
+| 功能 | 说明 | 示例 |
+|------|------|------|
+| **精灵查询** | 查询精灵的蛋组、身高体重范围、大块头小不点、进化链 | `查询 火花` |
+| **带体重查询** | 输入体重后计算该体型在种群中的百分比位置 | `查询 火花 42.5` |
+| **蛋组查询** | 列出该蛋组下的所有精灵 | `查询 巨灵组` |
+| **多蛋组交集** | 查询同时属于多个蛋组的精灵 | `查询 天空组/妖精组` |
+| **孵蛋预测** | 根据身高体重预测最可能的精灵 | `0.53 7.6` |
+| **模糊搜索** | 支持拼音匹配、拆字匹配 | `查询 毛豆` → 大耳帽兜 |
 
-- [AstrBot Repo](https://github.com/AstrBotDevs/AstrBot)
-- [AstrBot Plugin Development Docs (Chinese)](https://docs.astrbot.app/dev/star/plugin-new.html)
-- [AstrBot Plugin Development Docs (English)](https://docs.astrbot.app/en/dev/star/plugin-new.html)
+## 反查算法准确性
+
+孵蛋预测采用波动参数融合算法，基于 50,000 条真实孵化记录评估：
+
+| 指标 | 准确率 |
+|------|--------|
+| Top-1 | 78.33% |
+| Top-3 | 97.93% |
+| Top-5 | 98.82% |
+
+校准分析显示，模型在 90% 以上置信区间内准确率达 99.23%。
+
+## 安装
+
+1. 将插件目录放入 AstrBot 的 `data/plugins/` 下
+2. 安装依赖：`pip install -r requirements.txt`
+3. 确保云端计算服务可用（默认 `https://cinene.cloud/api/compute`）
+4. 重启 AstrBot 或重载插件
+
+## 配置
+
+在 AstrBot WebUI 中可配置：
+
+- `trigger_word`：触发词（默认 `查询 `，注意结尾空格）
+- `enable_spirit` / `enable_egg_group` / `enable_predict`：各功能开关
+- `enable_render_image`：是否渲染为图片
+
+## 架构
+
+```
+用户 → 插件（本地匹配 + 拼音搜索）
+  → 发送 {attribute, data} 到云端 API
+  → 云端 egg_calculator 计算
+  → 返回结果 → 渲染图片 → 发送
+```
+
+## 数据来源
+
+精灵数据来源于《洛克王国：世界》游戏。反查算法独立研发。
+
+## 许可
+
+AGPL-3.0
