@@ -8,7 +8,10 @@
       ],
       "region_form": "",
       "name_pinyin": "dimo",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 1,
+      "chain_order": 1,
+      "chain_name": "迪莫"
     },
     "喵喵": {
       "name": "喵喵",
@@ -19,7 +22,10 @@
       ],
       "region_form": "",
       "name_pinyin": "miaomiao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 2,
+      "chain_order": 1,
+      "chain_name": "喵喵→喵呜→魔力猫"
     },
     "喵呜": {
       "name": "喵呜",
@@ -30,7 +36,10 @@
       ],
       "region_form": "",
       "name_pinyin": "miaowu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 2,
+      "chain_order": 2,
+      "chain_name": "喵喵→喵呜→魔力猫"
     },
     "魔力猫": {
       "name": "魔力猫",
@@ -41,7 +50,10 @@
       ],
       "region_form": "",
       "name_pinyin": "molimao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 2,
+      "chain_order": 3,
+      "chain_name": "喵喵→喵呜→魔力猫"
     },
     "火花": {
       "name": "火花",
@@ -52,7 +64,10 @@
       ],
       "region_form": "",
       "name_pinyin": "huohua",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 3,
+      "chain_order": 1,
+      "chain_name": "火花→焰火→火神"
     },
     "焰火": {
       "name": "焰火",
@@ -63,7 +78,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yanhuo",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 3,
+      "chain_order": 2,
+      "chain_name": "火花→焰火→火神"
     },
     "火神": {
       "name": "火神",
@@ -74,7 +92,10 @@
       ],
       "region_form": "",
       "name_pinyin": "huoshen",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 3,
+      "chain_order": 3,
+      "chain_name": "火花→焰火→火神"
     },
     "水蓝蓝": {
       "name": "水蓝蓝",
@@ -84,7 +105,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shuilanlan",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 4,
+      "chain_order": 1,
+      "chain_name": "水蓝蓝→波波拉→水灵"
     },
     "波波拉": {
       "name": "波波拉",
@@ -94,7 +118,10 @@
       ],
       "region_form": "",
       "name_pinyin": "bobola",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 4,
+      "chain_order": 2,
+      "chain_name": "水蓝蓝→波波拉→水灵"
     },
     "水灵": {
       "name": "水灵",
@@ -104,17 +131,23 @@
       ],
       "region_form": "",
       "name_pinyin": "shuiling",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 4,
+      "chain_order": 3,
+      "chain_name": "水蓝蓝→波波拉→水灵"
     },
     "鸭吉吉": {
       "name": "鸭吉吉",
-      "display_name": "鸭吉吉（燃了鸭）",
+      "display_name": "鸭吉吉",
       "egg_groups": [
         "天空组"
       ],
-      "region_form": "燃了鸭",
+      "region_form": "",
       "name_pinyin": "yajiji",
-      "rf_pinyin": "ranleya"
+      "rf_pinyin": "",
+      "chain_id": 5,
+      "chain_order": 1,
+      "chain_name": "鸭吉吉（6形态）"
     },
     "板板壳": {
       "name": "板板壳",
@@ -124,7 +157,10 @@
       ],
       "region_form": "",
       "name_pinyin": "banbanke",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 6,
+      "chain_order": 1,
+      "chain_name": "板板壳→咔咔壳→水泡壳"
     },
     "咔咔壳": {
       "name": "咔咔壳",
@@ -134,7 +170,10 @@
       ],
       "region_form": "",
       "name_pinyin": "kakake",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 6,
+      "chain_order": 2,
+      "chain_name": "板板壳→咔咔壳→水泡壳"
     },
     "水泡壳": {
       "name": "水泡壳",
@@ -144,7 +183,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shuipaoke",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 6,
+      "chain_order": 3,
+      "chain_name": "板板壳→咔咔壳→水泡壳"
     },
     "锥尾羊": {
       "name": "锥尾羊",
@@ -154,7 +196,10 @@
       ],
       "region_form": "",
       "name_pinyin": "zhuiweiyang",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 7,
+      "chain_order": 1,
+      "chain_name": "锥尾羊→铃兰羊→花影羚羊"
     },
     "铃兰羊": {
       "name": "铃兰羊",
@@ -164,7 +209,10 @@
       ],
       "region_form": "",
       "name_pinyin": "linglanyang",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 7,
+      "chain_order": 2,
+      "chain_name": "锥尾羊→铃兰羊→花影羚羊"
     },
     "花影羚羊": {
       "name": "花影羚羊",
@@ -174,7 +222,10 @@
       ],
       "region_form": "",
       "name_pinyin": "huayinglingyang",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 7,
+      "chain_order": 3,
+      "chain_name": "锥尾羊→铃兰羊→花影羚羊"
     },
     "雪绒鸟": {
       "name": "雪绒鸟",
@@ -184,7 +235,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xuerongniao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 8,
+      "chain_order": 1,
+      "chain_name": "雪绒鸟→冬羽雀→岚鸟"
     },
     "冬羽雀": {
       "name": "冬羽雀",
@@ -194,7 +248,10 @@
       ],
       "region_form": "",
       "name_pinyin": "dongyuque",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 8,
+      "chain_order": 2,
+      "chain_name": "雪绒鸟→冬羽雀→岚鸟"
     },
     "岚鸟": {
       "name": "岚鸟",
@@ -204,7 +261,10 @@
       ],
       "region_form": "",
       "name_pinyin": "lanniao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 8,
+      "chain_order": 3,
+      "chain_name": "雪绒鸟→冬羽雀→岚鸟"
     },
     "小灵菇": {
       "name": "小灵菇",
@@ -215,7 +275,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaolinggu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 9,
+      "chain_order": 1,
+      "chain_name": "小灵菇→幻灵菇→幻影灵菇"
     },
     "幻灵菇": {
       "name": "幻灵菇",
@@ -226,7 +289,10 @@
       ],
       "region_form": "",
       "name_pinyin": "huanlinggu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 9,
+      "chain_order": 2,
+      "chain_name": "小灵菇→幻灵菇→幻影灵菇"
     },
     "幻影灵菇": {
       "name": "幻影灵菇",
@@ -237,7 +303,10 @@
       ],
       "region_form": "",
       "name_pinyin": "huanyinglinggu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 9,
+      "chain_order": 3,
+      "chain_name": "小灵菇→幻灵菇→幻影灵菇"
     },
     "石肤蜥": {
       "name": "石肤蜥",
@@ -248,7 +317,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shifuxi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 10,
+      "chain_order": 1,
+      "chain_name": "石肤蜥→石刺蜥→石冠王蜥"
     },
     "石刺蜥": {
       "name": "石刺蜥",
@@ -259,7 +331,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shicixi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 10,
+      "chain_order": 2,
+      "chain_name": "石肤蜥→石刺蜥→石冠王蜥"
     },
     "石冠王蜥": {
       "name": "石冠王蜥",
@@ -270,7 +345,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shiguanwangxi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 10,
+      "chain_order": 3,
+      "chain_name": "石肤蜥→石刺蜥→石冠王蜥"
     },
     "布是石": {
       "name": "布是石",
@@ -281,7 +359,10 @@
       ],
       "region_form": "",
       "name_pinyin": "bushishi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 11,
+      "chain_order": 1,
+      "chain_name": "布是石→布是岩→布克棱岩"
     },
     "布是岩": {
       "name": "布是岩",
@@ -292,7 +373,10 @@
       ],
       "region_form": "",
       "name_pinyin": "bushiyan",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 11,
+      "chain_order": 2,
+      "chain_name": "布是石→布是岩→布克棱岩"
     },
     "布克棱岩": {
       "name": "布克棱岩",
@@ -303,7 +387,10 @@
       ],
       "region_form": "",
       "name_pinyin": "bukelengyan",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 11,
+      "chain_order": 3,
+      "chain_name": "布是石→布是岩→布克棱岩"
     },
     "恶魔叮": {
       "name": "恶魔叮",
@@ -313,7 +400,10 @@
       ],
       "region_form": "",
       "name_pinyin": "emoding",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 12,
+      "chain_order": 1,
+      "chain_name": "恶魔叮→叮叮恶魔"
     },
     "叮叮恶魔": {
       "name": "叮叮恶魔",
@@ -323,7 +413,10 @@
       ],
       "region_form": "",
       "name_pinyin": "dingdingemo",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 12,
+      "chain_order": 2,
+      "chain_name": "恶魔叮→叮叮恶魔"
     },
     "毛毛": {
       "name": "毛毛",
@@ -334,7 +427,10 @@
       ],
       "region_form": "",
       "name_pinyin": "maomao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 13,
+      "chain_order": 1,
+      "chain_name": "毛毛→爬爬→化蝶"
     },
     "爬爬": {
       "name": "爬爬",
@@ -345,7 +441,10 @@
       ],
       "region_form": "",
       "name_pinyin": "papa",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 13,
+      "chain_order": 2,
+      "chain_name": "毛毛→爬爬→化蝶"
     },
     "化蝶": {
       "name": "化蝶",
@@ -356,7 +455,10 @@
       ],
       "region_form": "",
       "name_pinyin": "huadie",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 13,
+      "chain_order": 3,
+      "chain_name": "毛毛→爬爬→化蝶"
     },
     "幽影树": {
       "name": "幽影树",
@@ -367,7 +469,10 @@
       ],
       "region_form": "",
       "name_pinyin": "youyingshu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 14,
+      "chain_order": 1,
+      "chain_name": "幽影树"
     },
     "小鼠獭": {
       "name": "小鼠獭",
@@ -378,7 +483,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaoshuta",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 15,
+      "chain_order": 1,
+      "chain_name": "小鼠獭→燕尾獭→卷胡巨獭"
     },
     "燕尾獭": {
       "name": "燕尾獭",
@@ -389,7 +497,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yanweita",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 15,
+      "chain_order": 2,
+      "chain_name": "小鼠獭→燕尾獭→卷胡巨獭"
     },
     "卷胡巨獭": {
       "name": "卷胡巨獭",
@@ -400,7 +511,10 @@
       ],
       "region_form": "",
       "name_pinyin": "juanhujuta",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 15,
+      "chain_order": 3,
+      "chain_name": "小鼠獭→燕尾獭→卷胡巨獭"
     },
     "矿晶虫": {
       "name": "矿晶虫",
@@ -411,7 +525,10 @@
       ],
       "region_form": "",
       "name_pinyin": "kuangjingchong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 16,
+      "chain_order": 1,
+      "chain_name": "矿晶虫→晶石蜗"
     },
     "晶石蜗": {
       "name": "晶石蜗",
@@ -422,7 +539,10 @@
       ],
       "region_form": "",
       "name_pinyin": "jingshiwo",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 16,
+      "chain_order": 2,
+      "chain_name": "矿晶虫→晶石蜗"
     },
     "奇丽草": {
       "name": "奇丽草",
@@ -432,7 +552,10 @@
       ],
       "region_form": "",
       "name_pinyin": "qilicao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 17,
+      "chain_order": 1,
+      "chain_name": "奇丽草→奇丽叶→奇丽花"
     },
     "奇丽叶": {
       "name": "奇丽叶",
@@ -442,7 +565,10 @@
       ],
       "region_form": "",
       "name_pinyin": "qiliye",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 17,
+      "chain_order": 2,
+      "chain_name": "奇丽草→奇丽叶→奇丽花"
     },
     "奇丽花": {
       "name": "奇丽花",
@@ -452,7 +578,10 @@
       ],
       "region_form": "",
       "name_pinyin": "qilihua",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 17,
+      "chain_order": 3,
+      "chain_name": "奇丽草→奇丽叶→奇丽花"
     },
     "丢丢": {
       "name": "丢丢",
@@ -462,7 +591,10 @@
       ],
       "region_form": "",
       "name_pinyin": "diudiu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 18,
+      "chain_order": 1,
+      "chain_name": "丢丢→卡卡虫→卡瓦重"
     },
     "卡卡虫": {
       "name": "卡卡虫",
@@ -472,7 +604,10 @@
       ],
       "region_form": "",
       "name_pinyin": "kakachong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 18,
+      "chain_order": 2,
+      "chain_name": "丢丢→卡卡虫→卡瓦重"
     },
     "卡瓦重": {
       "name": "卡瓦重",
@@ -482,7 +617,10 @@
       ],
       "region_form": "",
       "name_pinyin": "kawazhong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 18,
+      "chain_order": 3,
+      "chain_name": "丢丢→卡卡虫→卡瓦重"
     },
     "护主犬": {
       "name": "护主犬",
@@ -492,7 +630,10 @@
       ],
       "region_form": "",
       "name_pinyin": "huzhuquan",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 19,
+      "chain_order": 1,
+      "chain_name": "护主犬→音速犬"
     },
     "音速犬": {
       "name": "音速犬",
@@ -502,7 +643,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yinsuquan",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 19,
+      "chain_order": 2,
+      "chain_name": "护主犬→音速犬"
     },
     "绿耳松鼠": {
       "name": "绿耳松鼠",
@@ -512,7 +656,10 @@
       ],
       "region_form": "",
       "name_pinyin": "lversongshu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 20,
+      "chain_order": 1,
+      "chain_name": "绿耳松鼠→抱枕松鼠→蹦床松鼠"
     },
     "抱枕松鼠": {
       "name": "抱枕松鼠",
@@ -522,7 +669,10 @@
       ],
       "region_form": "",
       "name_pinyin": "baozhensongshu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 20,
+      "chain_order": 2,
+      "chain_name": "绿耳松鼠→抱枕松鼠→蹦床松鼠"
     },
     "蹦床松鼠": {
       "name": "蹦床松鼠",
@@ -532,7 +682,10 @@
       ],
       "region_form": "",
       "name_pinyin": "bengchuangsongshu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 20,
+      "chain_order": 3,
+      "chain_name": "绿耳松鼠→抱枕松鼠→蹦床松鼠"
     },
     "嘟嘟煲": {
       "name": "嘟嘟煲",
@@ -543,7 +696,10 @@
       ],
       "region_form": "",
       "name_pinyin": "dudubao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 21,
+      "chain_order": 1,
+      "chain_name": "嘟嘟煲→嘟嘟锅"
     },
     "嘟嘟锅": {
       "name": "嘟嘟锅",
@@ -554,7 +710,10 @@
       ],
       "region_form": "",
       "name_pinyin": "duduguo",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 21,
+      "chain_order": 2,
+      "chain_name": "嘟嘟煲→嘟嘟锅"
     },
     "小灵面": {
       "name": "小灵面",
@@ -564,7 +723,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaolingmian",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 22,
+      "chain_order": 1,
+      "chain_name": "小灵面→暗影灵面→幽冥眼"
     },
     "暗影灵面": {
       "name": "暗影灵面",
@@ -574,7 +736,10 @@
       ],
       "region_form": "",
       "name_pinyin": "anyinglingmian",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 22,
+      "chain_order": 2,
+      "chain_name": "小灵面→暗影灵面→幽冥眼"
     },
     "幽冥眼": {
       "name": "幽冥眼",
@@ -584,7 +749,10 @@
       ],
       "region_form": "",
       "name_pinyin": "youmingyan",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 22,
+      "chain_order": 3,
+      "chain_name": "小灵面→暗影灵面→幽冥眼"
     },
     "梦游": {
       "name": "梦游",
@@ -595,7 +763,10 @@
       ],
       "region_form": "",
       "name_pinyin": "mengyou",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 23,
+      "chain_order": 1,
+      "chain_name": "梦游→梦悠悠"
     },
     "梦悠悠": {
       "name": "梦悠悠",
@@ -606,7 +777,10 @@
       ],
       "region_form": "",
       "name_pinyin": "mengyouyou",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 23,
+      "chain_order": 2,
+      "chain_name": "梦游→梦悠悠"
     },
     "兽花蕾": {
       "name": "兽花蕾",
@@ -616,7 +790,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shouhualei",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 24,
+      "chain_order": 1,
+      "chain_name": "兽花蕾"
     },
     "伏地兽": {
       "name": "伏地兽",
@@ -626,7 +803,10 @@
       ],
       "region_form": "",
       "name_pinyin": "fudishou",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 25,
+      "chain_order": 1,
+      "chain_name": "伏地兽→贪食鼹→巨噬针鼹"
     },
     "贪食鼹": {
       "name": "贪食鼹",
@@ -636,7 +816,10 @@
       ],
       "region_form": "",
       "name_pinyin": "tanshiyan",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 25,
+      "chain_order": 2,
+      "chain_name": "伏地兽→贪食鼹→巨噬针鼹"
     },
     "巨噬针鼹": {
       "name": "巨噬针鼹",
@@ -646,7 +829,10 @@
       ],
       "region_form": "",
       "name_pinyin": "jushizhenyan",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 25,
+      "chain_order": 3,
+      "chain_name": "伏地兽→贪食鼹→巨噬针鼹"
     },
     "蹦蹦种子": {
       "name": "蹦蹦种子",
@@ -656,7 +842,10 @@
       ],
       "region_form": "",
       "name_pinyin": "bengbengzhongzi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 26,
+      "chain_order": 1,
+      "chain_name": "蹦蹦种子→蹦蹦草→蹦蹦花"
     },
     "蹦蹦草": {
       "name": "蹦蹦草",
@@ -666,7 +855,10 @@
       ],
       "region_form": "",
       "name_pinyin": "bengbengcao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 26,
+      "chain_order": 2,
+      "chain_name": "蹦蹦种子→蹦蹦草→蹦蹦花"
     },
     "蹦蹦花": {
       "name": "蹦蹦花",
@@ -676,7 +868,10 @@
       ],
       "region_form": "",
       "name_pinyin": "bengbenghua",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 26,
+      "chain_order": 3,
+      "chain_name": "蹦蹦种子→蹦蹦草→蹦蹦花"
     },
     "电咩咩": {
       "name": "电咩咩",
@@ -686,7 +881,10 @@
       ],
       "region_form": "",
       "name_pinyin": "dianmiemie",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 27,
+      "chain_order": 1,
+      "chain_name": "电咩咩→粉咩咩→电球咩咩"
     },
     "粉咩咩": {
       "name": "粉咩咩",
@@ -696,7 +894,10 @@
       ],
       "region_form": "",
       "name_pinyin": "fenmiemie",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 27,
+      "chain_order": 2,
+      "chain_name": "电咩咩→粉咩咩→电球咩咩"
     },
     "电球咩咩": {
       "name": "电球咩咩",
@@ -706,7 +907,10 @@
       ],
       "region_form": "",
       "name_pinyin": "dianqiumiemie",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 27,
+      "chain_order": 3,
+      "chain_name": "电咩咩→粉咩咩→电球咩咩"
     },
     "蒲公英": {
       "name": "蒲公英",
@@ -717,7 +921,10 @@
       ],
       "region_form": "",
       "name_pinyin": "pugongying",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 28,
+      "chain_order": 1,
+      "chain_name": "蒲公英→蒲公英娃娃"
     },
     "蒲公英娃娃": {
       "name": "蒲公英娃娃",
@@ -728,7 +935,10 @@
       ],
       "region_form": "",
       "name_pinyin": "pugongyingwawa",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 28,
+      "chain_order": 2,
+      "chain_name": "蒲公英→蒲公英娃娃"
     },
     "伊贝儿": {
       "name": "伊贝儿",
@@ -739,7 +949,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yibeier",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 29,
+      "chain_order": 1,
+      "chain_name": "伊贝儿→伊贝粉粉"
     },
     "伊贝粉粉": {
       "name": "伊贝粉粉",
@@ -750,7 +963,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yibeifenfen",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 29,
+      "chain_order": 2,
+      "chain_name": "伊贝儿→伊贝粉粉"
     },
     "白发懒人": {
       "name": "白发懒人",
@@ -761,7 +977,10 @@
       ],
       "region_form": "",
       "name_pinyin": "baifalanren",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 30,
+      "chain_order": 1,
+      "chain_name": "白发懒人→动力猿→瞌睡王"
     },
     "动力猿": {
       "name": "动力猿",
@@ -772,7 +991,10 @@
       ],
       "region_form": "",
       "name_pinyin": "dongliyuan",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 30,
+      "chain_order": 2,
+      "chain_name": "白发懒人→动力猿→瞌睡王"
     },
     "瞌睡王": {
       "name": "瞌睡王",
@@ -783,7 +1005,10 @@
       ],
       "region_form": "",
       "name_pinyin": "keshuiwang",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 30,
+      "chain_order": 3,
+      "chain_name": "白发懒人→动力猿→瞌睡王"
     },
     "海盔虫": {
       "name": "海盔虫",
@@ -794,7 +1019,10 @@
       ],
       "region_form": "",
       "name_pinyin": "haikuichong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 31,
+      "chain_order": 1,
+      "chain_name": "海盔虫→刺盔虫→千棘盔"
     },
     "刺盔虫": {
       "name": "刺盔虫",
@@ -805,7 +1033,10 @@
       ],
       "region_form": "",
       "name_pinyin": "cikuichong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 31,
+      "chain_order": 2,
+      "chain_name": "海盔虫→刺盔虫→千棘盔"
     },
     "千棘盔": {
       "name": "千棘盔",
@@ -816,7 +1047,10 @@
       ],
       "region_form": "",
       "name_pinyin": "qianjikui",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 31,
+      "chain_order": 3,
+      "chain_name": "海盔虫→刺盔虫→千棘盔"
     },
     "菊花梨": {
       "name": "菊花梨",
@@ -826,7 +1060,10 @@
       ],
       "region_form": "",
       "name_pinyin": "juhuali",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 32,
+      "chain_order": 1,
+      "chain_name": "菊花梨"
     },
     "小星光": {
       "name": "小星光",
@@ -836,7 +1073,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaoxingguang",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 33,
+      "chain_order": 1,
+      "chain_name": "小星光→星光狮"
     },
     "星光狮": {
       "name": "星光狮",
@@ -846,7 +1086,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xingguangshi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 33,
+      "chain_order": 2,
+      "chain_name": "小星光→星光狮"
     },
     "一窝蜂": {
       "name": "一窝蜂",
@@ -857,7 +1100,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yiwofeng",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 34,
+      "chain_order": 1,
+      "chain_name": "一窝蜂→黄蜂后→花魁蜂后"
     },
     "黄蜂后": {
       "name": "黄蜂后",
@@ -868,7 +1114,10 @@
       ],
       "region_form": "",
       "name_pinyin": "huangfenghou",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 34,
+      "chain_order": 2,
+      "chain_name": "一窝蜂→黄蜂后→花魁蜂后"
     },
     "花魁蜂后": {
       "name": "花魁蜂后",
@@ -879,7 +1128,10 @@
       ],
       "region_form": "",
       "name_pinyin": "huakuifenghou",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 34,
+      "chain_order": 3,
+      "chain_name": "一窝蜂→黄蜂后→花魁蜂后"
     },
     "小夜": {
       "name": "小夜",
@@ -890,7 +1142,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaoye",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 35,
+      "chain_order": 1,
+      "chain_name": "小夜→紫夜→朔夜伊芙"
     },
     "紫夜": {
       "name": "紫夜",
@@ -901,7 +1156,10 @@
       ],
       "region_form": "",
       "name_pinyin": "ziye",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 35,
+      "chain_order": 2,
+      "chain_name": "小夜→紫夜→朔夜伊芙"
     },
     "朔夜伊芙": {
       "name": "朔夜伊芙",
@@ -912,7 +1170,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shuoyeyifu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 35,
+      "chain_order": 3,
+      "chain_name": "小夜→紫夜→朔夜伊芙"
     },
     "乖乖鹄": {
       "name": "乖乖鹄",
@@ -923,7 +1184,10 @@
       ],
       "region_form": "",
       "name_pinyin": "guaiguaigu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 36,
+      "chain_order": 1,
+      "chain_name": "乖乖鹄→蓝珠天鹅→翠顶夫人→黑羽夫人"
     },
     "蓝珠天鹅": {
       "name": "蓝珠天鹅",
@@ -934,7 +1198,10 @@
       ],
       "region_form": "",
       "name_pinyin": "lanzhutiane",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 36,
+      "chain_order": 2,
+      "chain_name": "乖乖鹄→蓝珠天鹅→翠顶夫人→黑羽夫人"
     },
     "翠顶夫人": {
       "name": "翠顶夫人",
@@ -945,7 +1212,10 @@
       ],
       "region_form": "",
       "name_pinyin": "cuidingfuren",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 36,
+      "chain_order": 3,
+      "chain_name": "乖乖鹄→蓝珠天鹅→翠顶夫人→黑羽夫人"
     },
     "黑羽夫人": {
       "name": "黑羽夫人",
@@ -956,7 +1226,10 @@
       ],
       "region_form": "",
       "name_pinyin": "heiyufuren",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 36,
+      "chain_order": 3,
+      "chain_name": "乖乖鹄→蓝珠天鹅→黑羽夫人→黑羽夫人"
     },
     "锤头鹳": {
       "name": "锤头鹳",
@@ -967,7 +1240,10 @@
       ],
       "region_form": "",
       "name_pinyin": "chuitouguan",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 38,
+      "chain_order": 1,
+      "chain_name": "锤头鹳"
     },
     "绿草精灵": {
       "name": "绿草精灵",
@@ -978,7 +1254,10 @@
       ],
       "region_form": "",
       "name_pinyin": "lvcaojingling",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 39,
+      "chain_order": 1,
+      "chain_name": "绿草精灵→魔草巫灵"
     },
     "魔草巫灵": {
       "name": "魔草巫灵",
@@ -989,7 +1268,10 @@
       ],
       "region_form": "",
       "name_pinyin": "mocaowuling",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 39,
+      "chain_order": 2,
+      "chain_name": "绿草精灵→魔草巫灵"
     },
     "记忆石": {
       "name": "记忆石",
@@ -999,7 +1281,10 @@
       ],
       "region_form": "",
       "name_pinyin": "jiyishi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 40,
+      "chain_order": 1,
+      "chain_name": "记忆石"
     },
     "咔咔羽毛": {
       "name": "咔咔羽毛",
@@ -1009,7 +1294,10 @@
       ],
       "region_form": "",
       "name_pinyin": "kakayumao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 41,
+      "chain_order": 1,
+      "chain_name": "咔咔羽毛→咔咔雀→咔咔鸟"
     },
     "咔咔雀": {
       "name": "咔咔雀",
@@ -1019,7 +1307,10 @@
       ],
       "region_form": "",
       "name_pinyin": "kakaque",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 41,
+      "chain_order": 2,
+      "chain_name": "咔咔羽毛→咔咔雀→咔咔鸟"
     },
     "咔咔鸟": {
       "name": "咔咔鸟",
@@ -1029,7 +1320,10 @@
       ],
       "region_form": "",
       "name_pinyin": "kakaniao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 41,
+      "chain_order": 3,
+      "chain_name": "咔咔羽毛→咔咔雀→咔咔鸟"
     },
     "小草虫": {
       "name": "小草虫",
@@ -1040,7 +1334,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaocaochong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 42,
+      "chain_order": 1,
+      "chain_name": "小草虫→草衣虫→花衣蝶"
     },
     "草衣虫": {
       "name": "草衣虫",
@@ -1051,7 +1348,10 @@
       ],
       "region_form": "",
       "name_pinyin": "caoyichong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 42,
+      "chain_order": 2,
+      "chain_name": "小草虫→草衣虫→花衣蝶"
     },
     "花衣蝶": {
       "name": "花衣蝶",
@@ -1062,7 +1362,10 @@
       ],
       "region_form": "",
       "name_pinyin": "huayidie",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 42,
+      "chain_order": 3,
+      "chain_name": "小草虫→草衣虫→花衣蝶"
     },
     "绿翼鸟": {
       "name": "绿翼鸟",
@@ -1073,7 +1376,10 @@
       ],
       "region_form": "",
       "name_pinyin": "lvyiniao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 43,
+      "chain_order": 1,
+      "chain_name": "绿翼鸟→魔翼鸟→魔眷鸟"
     },
     "魔翼鸟": {
       "name": "魔翼鸟",
@@ -1084,7 +1390,10 @@
       ],
       "region_form": "",
       "name_pinyin": "moyiniao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 43,
+      "chain_order": 2,
+      "chain_name": "绿翼鸟→魔翼鸟→魔眷鸟"
     },
     "魔眷鸟": {
       "name": "魔眷鸟",
@@ -1095,7 +1404,10 @@
       ],
       "region_form": "",
       "name_pinyin": "mojuanniao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 43,
+      "chain_order": 3,
+      "chain_name": "绿翼鸟→魔翼鸟→魔眷鸟"
     },
     "阿米亚特": {
       "name": "阿米亚特",
@@ -1106,7 +1418,10 @@
       ],
       "region_form": "",
       "name_pinyin": "amiyate",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 44,
+      "chain_order": 1,
+      "chain_name": "阿米亚特→阿米樱→罗隐"
     },
     "阿米樱": {
       "name": "阿米樱",
@@ -1117,7 +1432,10 @@
       ],
       "region_form": "",
       "name_pinyin": "amiying",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 44,
+      "chain_order": 2,
+      "chain_name": "阿米亚特→阿米樱→罗隐"
     },
     "罗隐": {
       "name": "罗隐",
@@ -1128,7 +1446,10 @@
       ],
       "region_form": "",
       "name_pinyin": "luoyin",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 44,
+      "chain_order": 3,
+      "chain_name": "阿米亚特→阿米樱→罗隐"
     },
     "风铃鲨": {
       "name": "风铃鲨",
@@ -1139,7 +1460,10 @@
       ],
       "region_form": "",
       "name_pinyin": "fenglingsha",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 45,
+      "chain_order": 1,
+      "chain_name": "风铃鲨→蓝蝶鲨→彩蝶鲨"
     },
     "蓝蝶鲨": {
       "name": "蓝蝶鲨",
@@ -1150,7 +1474,10 @@
       ],
       "region_form": "",
       "name_pinyin": "landiesha",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 45,
+      "chain_order": 2,
+      "chain_name": "风铃鲨→蓝蝶鲨→彩蝶鲨"
     },
     "彩蝶鲨": {
       "name": "彩蝶鲨",
@@ -1161,7 +1488,10 @@
       ],
       "region_form": "",
       "name_pinyin": "caidiesha",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 45,
+      "chain_order": 3,
+      "chain_name": "风铃鲨→蓝蝶鲨→彩蝶鲨"
     },
     "石石": {
       "name": "石石",
@@ -1172,7 +1502,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shishi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 46,
+      "chain_order": 1,
+      "chain_name": "石石→巨灵石"
     },
     "巨灵石": {
       "name": "巨灵石",
@@ -1183,7 +1516,10 @@
       ],
       "region_form": "",
       "name_pinyin": "julingshi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 46,
+      "chain_order": 2,
+      "chain_name": "石石→巨灵石"
     },
     "仪使者": {
       "name": "仪使者",
@@ -1194,7 +1530,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yishizhe",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 47,
+      "chain_order": 1,
+      "chain_name": "仪使者→仪式之星→仪式巨像"
     },
     "仪式之星": {
       "name": "仪式之星",
@@ -1205,7 +1544,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yishizhixing",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 47,
+      "chain_order": 2,
+      "chain_name": "仪使者→仪式之星→仪式巨像"
     },
     "仪式巨像": {
       "name": "仪式巨像",
@@ -1216,7 +1558,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yishijuxiang",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 47,
+      "chain_order": 3,
+      "chain_name": "仪使者→仪式之星→仪式巨像"
     },
     "小独角兽": {
       "name": "小独角兽",
@@ -1227,7 +1572,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaodujiaoshou",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 48,
+      "chain_order": 1,
+      "chain_name": "小独角兽→白金独角兽"
     },
     "白金独角兽": {
       "name": "白金独角兽",
@@ -1238,7 +1586,10 @@
       ],
       "region_form": "",
       "name_pinyin": "baijindujiaoshou",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 48,
+      "chain_order": 2,
+      "chain_name": "小独角兽→白金独角兽"
     },
     "旋叶虫": {
       "name": "旋叶虫",
@@ -1249,7 +1600,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xuanyechong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 49,
+      "chain_order": 1,
+      "chain_name": "旋叶虫→蓬叶虫→风滚暮虫"
     },
     "蓬叶虫": {
       "name": "蓬叶虫",
@@ -1260,7 +1614,10 @@
       ],
       "region_form": "",
       "name_pinyin": "pengyechong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 49,
+      "chain_order": 2,
+      "chain_name": "旋叶虫→蓬叶虫→风滚暮虫"
     },
     "风滚暮虫": {
       "name": "风滚暮虫",
@@ -1271,7 +1628,10 @@
       ],
       "region_form": "",
       "name_pinyin": "fenggunmuchong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 49,
+      "chain_order": 3,
+      "chain_name": "旋叶虫→蓬叶虫→风滚暮虫"
     },
     "小黑猫": {
       "name": "小黑猫",
@@ -1282,7 +1642,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaoheimao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 50,
+      "chain_order": 1,
+      "chain_name": "小黑猫→黑猫巫师"
     },
     "黑猫巫师": {
       "name": "黑猫巫师",
@@ -1293,7 +1656,10 @@
       ],
       "region_form": "",
       "name_pinyin": "heimaowushi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 50,
+      "chain_order": 2,
+      "chain_name": "小黑猫→黑猫巫师"
     },
     "忽幽狸": {
       "name": "忽幽狸",
@@ -1304,7 +1670,10 @@
       ],
       "region_form": "",
       "name_pinyin": "huyouli",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 51,
+      "chain_order": 1,
+      "chain_name": "忽幽狸→影狸"
     },
     "影狸": {
       "name": "影狸",
@@ -1315,7 +1684,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yingli",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 51,
+      "chain_order": 2,
+      "chain_name": "忽幽狸→影狸"
     },
     "多多": {
       "name": "多多",
@@ -1325,7 +1697,10 @@
       ],
       "region_form": "",
       "name_pinyin": "duoduo",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 52,
+      "chain_order": 1,
+      "chain_name": "多多→多啦多→古啦多"
     },
     "多啦多": {
       "name": "多啦多",
@@ -1335,7 +1710,10 @@
       ],
       "region_form": "",
       "name_pinyin": "duoladuo",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 52,
+      "chain_order": 2,
+      "chain_name": "多多→多啦多→古啦多"
     },
     "古啦多": {
       "name": "古啦多",
@@ -1345,7 +1723,10 @@
       ],
       "region_form": "",
       "name_pinyin": "guladuo",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 52,
+      "chain_order": 3,
+      "chain_name": "多多→多啦多→古啦多"
     },
     "哭哭菇": {
       "name": "哭哭菇",
@@ -1355,7 +1736,10 @@
       ],
       "region_form": "",
       "name_pinyin": "kukugu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 53,
+      "chain_order": 1,
+      "chain_name": "哭哭菇→怖须菇→怖哭菇"
     },
     "怖须菇": {
       "name": "怖须菇",
@@ -1365,7 +1749,10 @@
       ],
       "region_form": "",
       "name_pinyin": "buxugu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 53,
+      "chain_order": 2,
+      "chain_name": "哭哭菇→怖须菇→怖哭菇"
     },
     "怖哭菇": {
       "name": "怖哭菇",
@@ -1375,7 +1762,10 @@
       ],
       "region_form": "",
       "name_pinyin": "bukugu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 53,
+      "chain_order": 3,
+      "chain_name": "哭哭菇→怖须菇→怖哭菇"
     },
     "恶魔狼": {
       "name": "恶魔狼",
@@ -1385,7 +1775,10 @@
       ],
       "region_form": "",
       "name_pinyin": "emolang",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 54,
+      "chain_order": 1,
+      "chain_name": "恶魔狼"
     },
     "小电企鹅": {
       "name": "小电企鹅",
@@ -1395,7 +1788,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaodianqie",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 55,
+      "chain_order": 1,
+      "chain_name": "小电企鹅→电企鹅"
     },
     "电企鹅": {
       "name": "电企鹅",
@@ -1405,7 +1801,10 @@
       ],
       "region_form": "",
       "name_pinyin": "dianqie",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 55,
+      "chain_order": 2,
+      "chain_name": "小电企鹅→电企鹅"
     },
     "雪豆丁": {
       "name": "雪豆丁",
@@ -1416,7 +1815,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xuedouding",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 56,
+      "chain_order": 1,
+      "chain_name": "雪豆丁→雪蛮人→雪巨人"
     },
     "雪蛮人": {
       "name": "雪蛮人",
@@ -1427,7 +1829,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xuemanren",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 56,
+      "chain_order": 2,
+      "chain_name": "雪豆丁→雪蛮人→雪巨人"
     },
     "雪巨人": {
       "name": "雪巨人",
@@ -1438,7 +1843,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xuejuren",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 56,
+      "chain_order": 3,
+      "chain_name": "雪豆丁→雪蛮人→雪巨人"
     },
     "呼呼猪": {
       "name": "呼呼猪",
@@ -1448,7 +1856,10 @@
       ],
       "region_form": "",
       "name_pinyin": "huhuzhu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 57,
+      "chain_order": 1,
+      "chain_name": "呼呼猪→獠牙猪"
     },
     "獠牙猪": {
       "name": "獠牙猪",
@@ -1458,7 +1869,10 @@
       ],
       "region_form": "",
       "name_pinyin": "liaoyazhu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 57,
+      "chain_order": 2,
+      "chain_name": "呼呼猪→獠牙猪"
     },
     "雪娃娃": {
       "name": "雪娃娃",
@@ -1468,7 +1882,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xuewawa",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 58,
+      "chain_order": 1,
+      "chain_name": "雪娃娃→冰封怨灵→雪灵"
     },
     "冰封怨灵": {
       "name": "冰封怨灵",
@@ -1478,7 +1895,10 @@
       ],
       "region_form": "",
       "name_pinyin": "bingfengyuanling",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 58,
+      "chain_order": 2,
+      "chain_name": "雪娃娃→冰封怨灵→雪灵"
     },
     "雪灵": {
       "name": "雪灵",
@@ -1488,7 +1908,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xueling",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 58,
+      "chain_order": 3,
+      "chain_name": "雪娃娃→冰封怨灵→雪灵"
     },
     "大耳帽兜": {
       "name": "大耳帽兜",
@@ -1499,7 +1922,10 @@
       ],
       "region_form": "",
       "name_pinyin": "daermaodou",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 59,
+      "chain_order": 1,
+      "chain_name": "大耳帽兜→帽兜娃娃→雪影娃娃"
     },
     "帽兜娃娃": {
       "name": "帽兜娃娃",
@@ -1510,7 +1936,10 @@
       ],
       "region_form": "",
       "name_pinyin": "maodouwawa",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 59,
+      "chain_order": 2,
+      "chain_name": "大耳帽兜→帽兜娃娃→雪影娃娃"
     },
     "雪影娃娃": {
       "name": "雪影娃娃",
@@ -1521,7 +1950,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xueyingwawa",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 59,
+      "chain_order": 3,
+      "chain_name": "大耳帽兜→帽兜娃娃→雪影娃娃"
     },
     "权杖-Ⅱ": {
       "name": "权杖-Ⅱ",
@@ -1531,7 +1963,10 @@
       ],
       "region_form": "",
       "name_pinyin": "quanzhang-Ⅱ",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 60,
+      "chain_order": 1,
+      "chain_name": "权杖-Ⅱ→权杖-Ⅴ"
     },
     "权杖-Ⅴ": {
       "name": "权杖-Ⅴ",
@@ -1541,7 +1976,10 @@
       ],
       "region_form": "",
       "name_pinyin": "quanzhang-Ⅴ",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 60,
+      "chain_order": 2,
+      "chain_name": "权杖-Ⅱ→权杖-Ⅴ"
     },
     "灵狐": {
       "name": "灵狐",
@@ -1551,7 +1989,10 @@
       ],
       "region_form": "",
       "name_pinyin": "linghu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 61,
+      "chain_order": 1,
+      "chain_name": "灵狐→九尾狐→尖嘴狐仙"
     },
     "九尾狐": {
       "name": "九尾狐",
@@ -1561,7 +2002,10 @@
       ],
       "region_form": "",
       "name_pinyin": "jiuweihu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 61,
+      "chain_order": 2,
+      "chain_name": "灵狐→九尾狐→尖嘴狐仙"
     },
     "尖嘴狐仙": {
       "name": "尖嘴狐仙",
@@ -1571,7 +2015,10 @@
       ],
       "region_form": "",
       "name_pinyin": "jianzuihuxian",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 61,
+      "chain_order": 3,
+      "chain_name": "灵狐→九尾狐→尖嘴狐仙"
     },
     "里奥": {
       "name": "里奥",
@@ -1581,7 +2028,10 @@
       ],
       "region_form": "",
       "name_pinyin": "liao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 62,
+      "chain_order": 1,
+      "chain_name": "里奥→灵羽勇士→圣羽翼王"
     },
     "灵羽勇士": {
       "name": "灵羽勇士",
@@ -1591,7 +2041,10 @@
       ],
       "region_form": "",
       "name_pinyin": "lingyuyongshi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 62,
+      "chain_order": 2,
+      "chain_name": "里奥→灵羽勇士→圣羽翼王"
     },
     "圣羽翼王": {
       "name": "圣羽翼王",
@@ -1601,7 +2054,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shengyuyiwang",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 62,
+      "chain_order": 3,
+      "chain_name": "里奥→灵羽勇士→圣羽翼王"
     },
     "松仔": {
       "name": "松仔",
@@ -1611,7 +2067,10 @@
       ],
       "region_form": "",
       "name_pinyin": "songzai",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 63,
+      "chain_order": 1,
+      "chain_name": "松仔→松叶羊→针叶巡林"
     },
     "松叶羊": {
       "name": "松叶羊",
@@ -1621,7 +2080,10 @@
       ],
       "region_form": "",
       "name_pinyin": "songyeyang",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 63,
+      "chain_order": 2,
+      "chain_name": "松仔→松叶羊→针叶巡林"
     },
     "针叶巡林": {
       "name": "针叶巡林",
@@ -1631,7 +2093,10 @@
       ],
       "region_form": "",
       "name_pinyin": "zhenyexunlin",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 63,
+      "chain_order": 3,
+      "chain_name": "松仔→松叶羊→针叶巡林"
     },
     "小勇狮": {
       "name": "小勇狮",
@@ -1641,7 +2106,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaoyongshi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 64,
+      "chain_order": 1,
+      "chain_name": "小勇狮→炽焰狮→炽心勇狮"
     },
     "炽焰狮": {
       "name": "炽焰狮",
@@ -1651,7 +2119,10 @@
       ],
       "region_form": "",
       "name_pinyin": "chiyanshi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 64,
+      "chain_order": 2,
+      "chain_name": "小勇狮→炽焰狮→炽心勇狮"
     },
     "炽心勇狮": {
       "name": "炽心勇狮",
@@ -1661,7 +2132,10 @@
       ],
       "region_form": "",
       "name_pinyin": "chixinyongshi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 64,
+      "chain_order": 3,
+      "chain_name": "小勇狮→炽焰狮→炽心勇狮"
     },
     "水滴蛇": {
       "name": "水滴蛇",
@@ -1672,7 +2146,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shuidishe",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 65,
+      "chain_order": 1,
+      "chain_name": "水滴蛇→水蛇锁→游蛇魔使"
     },
     "水蛇锁": {
       "name": "水蛇锁",
@@ -1683,7 +2160,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shuishesuo",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 65,
+      "chain_order": 2,
+      "chain_name": "水滴蛇→水蛇锁→游蛇魔使"
     },
     "游蛇魔使": {
       "name": "游蛇魔使",
@@ -1694,7 +2174,10 @@
       ],
       "region_form": "",
       "name_pinyin": "youshemoshi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 65,
+      "chain_order": 3,
+      "chain_name": "水滴蛇→水蛇锁→游蛇魔使"
     },
     "公平鸽": {
       "name": "公平鸽",
@@ -1704,7 +2187,10 @@
       ],
       "region_form": "",
       "name_pinyin": "gongpingge",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 66,
+      "chain_order": 1,
+      "chain_name": "公平鸽"
     },
     "小怂猫": {
       "name": "小怂猫",
@@ -1715,7 +2201,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaosongmao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 67,
+      "chain_order": 1,
+      "chain_name": "小怂猫→怒目怂猫"
     },
     "怒目怂猫": {
       "name": "怒目怂猫",
@@ -1726,7 +2215,10 @@
       ],
       "region_form": "",
       "name_pinyin": "numusongmao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 67,
+      "chain_order": 2,
+      "chain_name": "小怂猫→怒目怂猫"
     },
     "小狮鹫": {
       "name": "小狮鹫",
@@ -1737,7 +2229,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaoshijiu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 68,
+      "chain_order": 1,
+      "chain_name": "小狮鹫→神圣狮鹫→皇家狮鹫"
     },
     "神圣狮鹫": {
       "name": "神圣狮鹫",
@@ -1748,7 +2243,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shenshengshijiu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 68,
+      "chain_order": 2,
+      "chain_name": "小狮鹫→神圣狮鹫→皇家狮鹫"
     },
     "皇家狮鹫": {
       "name": "皇家狮鹫",
@@ -1759,7 +2257,10 @@
       ],
       "region_form": "",
       "name_pinyin": "huangjiashijiu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 68,
+      "chain_order": 3,
+      "chain_name": "小狮鹫→神圣狮鹫→皇家狮鹫"
     },
     "圆眼蜘蛛": {
       "name": "圆眼蜘蛛",
@@ -1769,7 +2270,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yuanyanzhizhu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 69,
+      "chain_order": 1,
+      "chain_name": "圆眼蜘蛛→尖角蜘蛛→芋香巨角蛛"
     },
     "尖角蜘蛛": {
       "name": "尖角蜘蛛",
@@ -1779,7 +2283,10 @@
       ],
       "region_form": "",
       "name_pinyin": "jianjiaozhizhu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 69,
+      "chain_order": 2,
+      "chain_name": "圆眼蜘蛛→尖角蜘蛛→芋香巨角蛛"
     },
     "芋香巨角蛛": {
       "name": "芋香巨角蛛",
@@ -1789,7 +2296,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yuxiangjujiaozhu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 69,
+      "chain_order": 3,
+      "chain_name": "圆眼蜘蛛→尖角蜘蛛→芋香巨角蛛"
     },
     "波波螺": {
       "name": "波波螺",
@@ -1800,7 +2310,10 @@
       ],
       "region_form": "",
       "name_pinyin": "boboluo",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 70,
+      "chain_order": 1,
+      "chain_name": "波波螺→消波螺→嗜波螺"
     },
     "消波螺": {
       "name": "消波螺",
@@ -1811,7 +2324,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaoboluo",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 70,
+      "chain_order": 2,
+      "chain_name": "波波螺→消波螺→嗜波螺"
     },
     "嗜波螺": {
       "name": "嗜波螺",
@@ -1822,7 +2338,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shiboluo",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 70,
+      "chain_order": 3,
+      "chain_name": "波波螺→消波螺→嗜波螺"
     },
     "菇菇丁": {
       "name": "菇菇丁",
@@ -1832,7 +2351,10 @@
       ],
       "region_form": "",
       "name_pinyin": "guguding",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 71,
+      "chain_order": 1,
+      "chain_name": "菇菇丁→多菇丁→九幽菇"
     },
     "多菇丁": {
       "name": "多菇丁",
@@ -1842,7 +2364,10 @@
       ],
       "region_form": "",
       "name_pinyin": "duoguding",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 71,
+      "chain_order": 2,
+      "chain_name": "菇菇丁→多菇丁→九幽菇"
     },
     "九幽菇": {
       "name": "九幽菇",
@@ -1852,7 +2377,10 @@
       ],
       "region_form": "",
       "name_pinyin": "jiuyougu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 71,
+      "chain_order": 3,
+      "chain_name": "菇菇丁→多菇丁→九幽菇"
     },
     "斑斑": {
       "name": "斑斑",
@@ -1862,7 +2390,10 @@
       ],
       "region_form": "",
       "name_pinyin": "banban",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 72,
+      "chain_order": 1,
+      "chain_name": "斑斑→斑枭"
     },
     "斑枭": {
       "name": "斑枭",
@@ -1872,7 +2403,10 @@
       ],
       "region_form": "",
       "name_pinyin": "banxiao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 72,
+      "chain_order": 2,
+      "chain_name": "斑斑→斑枭"
     },
     "草头鸭": {
       "name": "草头鸭",
@@ -1883,7 +2417,10 @@
       ],
       "region_form": "",
       "name_pinyin": "caotouya",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 73,
+      "chain_order": 1,
+      "chain_name": "草头鸭→卷毛鸭"
     },
     "卷毛鸭": {
       "name": "卷毛鸭",
@@ -1894,7 +2431,10 @@
       ],
       "region_form": "",
       "name_pinyin": "juanmaoya",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 73,
+      "chain_order": 2,
+      "chain_name": "草头鸭→卷毛鸭"
     },
     "海豹战士": {
       "name": "海豹战士",
@@ -1905,7 +2445,10 @@
       ],
       "region_form": "",
       "name_pinyin": "haibaozhanshi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 74,
+      "chain_order": 1,
+      "chain_name": "海豹战士→海豹船长"
     },
     "海豹船长": {
       "name": "海豹船长",
@@ -1916,7 +2459,10 @@
       ],
       "region_form": "",
       "name_pinyin": "haibaochuanzhang",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 74,
+      "chain_order": 2,
+      "chain_name": "海豹战士→海豹船长"
     },
     "号儿鱼": {
       "name": "号儿鱼",
@@ -1927,7 +2473,10 @@
       ],
       "region_form": "",
       "name_pinyin": "haoeryu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 75,
+      "chain_order": 1,
+      "chain_name": "号儿鱼→圆号鱼"
     },
     "圆号鱼": {
       "name": "圆号鱼",
@@ -1938,7 +2487,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yuanhaoyu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 75,
+      "chain_order": 2,
+      "chain_name": "号儿鱼→圆号鱼"
     },
     "甜田螺": {
       "name": "甜田螺",
@@ -1949,7 +2501,10 @@
       ],
       "region_form": "",
       "name_pinyin": "tiantianluo",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 76,
+      "chain_order": 1,
+      "chain_name": "甜田螺→壳乙螺→卡洛儿"
     },
     "壳乙螺": {
       "name": "壳乙螺",
@@ -1960,7 +2515,10 @@
       ],
       "region_form": "",
       "name_pinyin": "keyiluo",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 76,
+      "chain_order": 2,
+      "chain_name": "甜田螺→壳乙螺→卡洛儿"
     },
     "卡洛儿": {
       "name": "卡洛儿",
@@ -1971,7 +2529,10 @@
       ],
       "region_form": "",
       "name_pinyin": "kaluoer",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 76,
+      "chain_order": 3,
+      "chain_name": "甜田螺→壳乙螺→卡洛儿"
     },
     "棋棋": {
       "name": "棋棋",
@@ -1981,7 +2542,10 @@
       ],
       "region_form": "",
       "name_pinyin": "qiqi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 77,
+      "chain_order": 1,
+      "chain_name": "棋棋→棋骑士→棋齐垒→棋祈督→棋绮后"
     },
     "棋骑士": {
       "name": "棋骑士",
@@ -1991,7 +2555,10 @@
       ],
       "region_form": "",
       "name_pinyin": "qiqishi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 77,
+      "chain_order": 2,
+      "chain_name": "棋棋→棋骑士→棋齐垒→棋祈督→棋绮后"
     },
     "棋齐垒": {
       "name": "棋齐垒",
@@ -2001,7 +2568,10 @@
       ],
       "region_form": "",
       "name_pinyin": "qiqilei",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 77,
+      "chain_order": 2,
+      "chain_name": "棋棋→棋骑士→棋齐垒→棋祈督→棋绮后"
     },
     "棋祈督": {
       "name": "棋祈督",
@@ -2011,7 +2581,10 @@
       ],
       "region_form": "",
       "name_pinyin": "qiqidu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 77,
+      "chain_order": 2,
+      "chain_name": "棋棋→棋骑士→棋齐垒→棋祈督→棋绮后"
     },
     "棋绮后": {
       "name": "棋绮后",
@@ -2021,7 +2594,10 @@
       ],
       "region_form": "",
       "name_pinyin": "qiqihou",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 77,
+      "chain_order": 2,
+      "chain_name": "棋棋→棋骑士→棋齐垒→棋祈督→棋绮后"
     },
     "奔波鼠": {
       "name": "奔波鼠",
@@ -2032,7 +2608,10 @@
       ],
       "region_form": "",
       "name_pinyin": "benboshu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 81,
+      "chain_order": 1,
+      "chain_name": "奔波鼠→流浪鼠"
     },
     "流浪鼠": {
       "name": "流浪鼠",
@@ -2043,7 +2622,10 @@
       ],
       "region_form": "",
       "name_pinyin": "liulangshu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 81,
+      "chain_order": 2,
+      "chain_name": "奔波鼠→流浪鼠"
     },
     "呆小路": {
       "name": "呆小路",
@@ -2054,7 +2636,10 @@
       ],
       "region_form": "",
       "name_pinyin": "daixiaolu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 82,
+      "chain_order": 1,
+      "chain_name": "呆小路→舞动路路→白发路路"
     },
     "舞动路路": {
       "name": "舞动路路",
@@ -2065,7 +2650,10 @@
       ],
       "region_form": "",
       "name_pinyin": "wudonglulu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 82,
+      "chain_order": 2,
+      "chain_name": "呆小路→舞动路路→白发路路"
     },
     "白发路路": {
       "name": "白发路路",
@@ -2076,7 +2664,10 @@
       ],
       "region_form": "",
       "name_pinyin": "baifalulu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 82,
+      "chain_order": 3,
+      "chain_name": "呆小路→舞动路路→白发路路"
     },
     "逗逗": {
       "name": "逗逗",
@@ -2087,7 +2678,10 @@
       ],
       "region_form": "",
       "name_pinyin": "doudou",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 83,
+      "chain_order": 1,
+      "chain_name": "逗逗→气球猫→梦想三三"
     },
     "气球猫": {
       "name": "气球猫",
@@ -2098,7 +2692,10 @@
       ],
       "region_form": "",
       "name_pinyin": "qiqiumao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 83,
+      "chain_order": 2,
+      "chain_name": "逗逗→气球猫→梦想三三"
     },
     "梦想三三": {
       "name": "梦想三三",
@@ -2109,7 +2706,10 @@
       ],
       "region_form": "",
       "name_pinyin": "mengxiangsansan",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 83,
+      "chain_order": 3,
+      "chain_name": "逗逗→气球猫→梦想三三"
     },
     "花怨鳗": {
       "name": "花怨鳗",
@@ -2120,7 +2720,10 @@
       ],
       "region_form": "",
       "name_pinyin": "huayuanman",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 84,
+      "chain_order": 1,
+      "chain_name": "花怨鳗→鳗尾兽"
     },
     "鳗尾兽": {
       "name": "鳗尾兽",
@@ -2131,7 +2734,10 @@
       ],
       "region_form": "",
       "name_pinyin": "manweishou",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 84,
+      "chain_order": 2,
+      "chain_name": "花怨鳗→鳗尾兽"
     },
     "伊雷龙": {
       "name": "伊雷龙",
@@ -2141,7 +2747,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yileilong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 85,
+      "chain_order": 1,
+      "chain_name": "伊雷龙→伊兰亚龙"
     },
     "伊兰亚龙": {
       "name": "伊兰亚龙",
@@ -2151,7 +2760,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yilanyalong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 85,
+      "chain_order": 2,
+      "chain_name": "伊雷龙→伊兰亚龙"
     },
     "拉特": {
       "name": "拉特",
@@ -2161,7 +2773,10 @@
       ],
       "region_form": "",
       "name_pinyin": "late",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 86,
+      "chain_order": 1,
+      "chain_name": "拉特→酷拉"
     },
     "酷拉": {
       "name": "酷拉",
@@ -2171,7 +2786,10 @@
       ],
       "region_form": "",
       "name_pinyin": "kula",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 86,
+      "chain_order": 2,
+      "chain_name": "拉特→酷拉"
     },
     "闪电环": {
       "name": "闪电环",
@@ -2181,7 +2799,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shandianhuan",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 87,
+      "chain_order": 1,
+      "chain_name": "闪电环→刺电环→荆棘电环"
     },
     "刺电环": {
       "name": "刺电环",
@@ -2191,7 +2812,10 @@
       ],
       "region_form": "",
       "name_pinyin": "cidianhuan",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 87,
+      "chain_order": 2,
+      "chain_name": "闪电环→刺电环→荆棘电环"
     },
     "荆棘电环": {
       "name": "荆棘电环",
@@ -2201,7 +2825,10 @@
       ],
       "region_form": "",
       "name_pinyin": "jingjidianhuan",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 87,
+      "chain_order": 3,
+      "chain_name": "闪电环→刺电环→荆棘电环"
     },
     "小箱怪": {
       "name": "小箱怪",
@@ -2212,7 +2839,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaoxiangguai",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 88,
+      "chain_order": 1,
+      "chain_name": "小箱怪→迷迷箱怪"
     },
     "迷迷箱怪": {
       "name": "迷迷箱怪",
@@ -2223,7 +2853,10 @@
       ],
       "region_form": "",
       "name_pinyin": "mimixiangguai",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 88,
+      "chain_order": 2,
+      "chain_name": "小箱怪→迷迷箱怪"
     },
     "古钟蛇": {
       "name": "古钟蛇",
@@ -2234,7 +2867,10 @@
       ],
       "region_form": "",
       "name_pinyin": "guzhongshe",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 89,
+      "chain_order": 1,
+      "chain_name": "古钟蛇→寒音蛇"
     },
     "寒音蛇": {
       "name": "寒音蛇",
@@ -2245,7 +2881,10 @@
       ],
       "region_form": "",
       "name_pinyin": "hanyinshe",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 89,
+      "chain_order": 2,
+      "chain_name": "古钟蛇→寒音蛇"
     },
     "矮脚爬爬": {
       "name": "矮脚爬爬",
@@ -2256,7 +2895,10 @@
       ],
       "region_form": "",
       "name_pinyin": "aijiaopapa",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 90,
+      "chain_order": 1,
+      "chain_name": "矮脚爬爬→恶魔红钻"
     },
     "恶魔红钻": {
       "name": "恶魔红钻",
@@ -2267,7 +2909,10 @@
       ],
       "region_form": "",
       "name_pinyin": "emohongzuan",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 90,
+      "chain_order": 2,
+      "chain_name": "矮脚爬爬→恶魔红钻"
     },
     "火尾瓦特": {
       "name": "火尾瓦特",
@@ -2277,7 +2922,10 @@
       ],
       "region_form": "",
       "name_pinyin": "huoweiwate",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 91,
+      "chain_order": 1,
+      "chain_name": "火尾瓦特→火尾战士→烈火守护"
     },
     "火尾战士": {
       "name": "火尾战士",
@@ -2287,7 +2935,10 @@
       ],
       "region_form": "",
       "name_pinyin": "huoweizhanshi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 91,
+      "chain_order": 2,
+      "chain_name": "火尾瓦特→火尾战士→烈火守护"
     },
     "烈火守护": {
       "name": "烈火守护",
@@ -2297,7 +2948,10 @@
       ],
       "region_form": "",
       "name_pinyin": "liehuoshouhu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 91,
+      "chain_order": 3,
+      "chain_name": "火尾瓦特→火尾战士→烈火守护"
     },
     "里拉鳐": {
       "name": "里拉鳐",
@@ -2308,7 +2962,10 @@
       ],
       "region_form": "",
       "name_pinyin": "lilayao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 92,
+      "chain_order": 1,
+      "chain_name": "里拉鳐"
     },
     "海枝枝": {
       "name": "海枝枝",
@@ -2319,7 +2976,10 @@
       ],
       "region_form": "",
       "name_pinyin": "haizhizhi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 93,
+      "chain_order": 1,
+      "chain_name": "海枝枝"
     },
     "多西": {
       "name": "多西",
@@ -2330,7 +2990,10 @@
       ],
       "region_form": "",
       "name_pinyin": "duoxi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 94,
+      "chain_order": 1,
+      "chain_name": "多西→库多西→波多西"
     },
     "库多西": {
       "name": "库多西",
@@ -2341,7 +3004,10 @@
       ],
       "region_form": "",
       "name_pinyin": "kuduoxi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 94,
+      "chain_order": 2,
+      "chain_name": "多西→库多西→波多西"
     },
     "波多西": {
       "name": "波多西",
@@ -2352,7 +3018,10 @@
       ],
       "region_form": "",
       "name_pinyin": "boduoxi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 94,
+      "chain_order": 3,
+      "chain_name": "多西→库多西→波多西"
     },
     "小翼龙": {
       "name": "小翼龙",
@@ -2363,7 +3032,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaoyilong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 95,
+      "chain_order": 1,
+      "chain_name": "小翼龙→翼龙"
     },
     "翼龙": {
       "name": "翼龙",
@@ -2374,7 +3046,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yilong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 95,
+      "chain_order": 2,
+      "chain_name": "小翼龙→翼龙"
     },
     "电动长颈鹿": {
       "name": "电动长颈鹿",
@@ -2384,7 +3059,10 @@
       ],
       "region_form": "",
       "name_pinyin": "diandongchangjinglu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 96,
+      "chain_order": 1,
+      "chain_name": "电动长颈鹿→奔乐鹿→爵士鹿"
     },
     "奔乐鹿": {
       "name": "奔乐鹿",
@@ -2394,7 +3072,10 @@
       ],
       "region_form": "",
       "name_pinyin": "benlelu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 96,
+      "chain_order": 2,
+      "chain_name": "电动长颈鹿→奔乐鹿→爵士鹿"
     },
     "爵士鹿": {
       "name": "爵士鹿",
@@ -2404,7 +3085,10 @@
       ],
       "region_form": "",
       "name_pinyin": "jueshilu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 96,
+      "chain_order": 3,
+      "chain_name": "电动长颈鹿→奔乐鹿→爵士鹿"
     },
     "缇塔": {
       "name": "缇塔",
@@ -2414,7 +3098,10 @@
       ],
       "region_form": "",
       "name_pinyin": "tita",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 97,
+      "chain_order": 1,
+      "chain_name": "缇塔→声波缇塔"
     },
     "声波缇塔": {
       "name": "声波缇塔",
@@ -2424,7 +3111,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shengbotita",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 97,
+      "chain_order": 2,
+      "chain_name": "缇塔→声波缇塔"
     },
     "小鹬": {
       "name": "小鹬",
@@ -2434,7 +3124,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaoyu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 98,
+      "chain_order": 1,
+      "chain_name": "小鹬→鄙目鹬→高脚鹬"
     },
     "鄙目鹬": {
       "name": "鄙目鹬",
@@ -2444,7 +3137,10 @@
       ],
       "region_form": "",
       "name_pinyin": "bimuyu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 98,
+      "chain_order": 2,
+      "chain_name": "小鹬→鄙目鹬→高脚鹬"
     },
     "高脚鹬": {
       "name": "高脚鹬",
@@ -2454,7 +3150,10 @@
       ],
       "region_form": "",
       "name_pinyin": "gaojiaoyu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 98,
+      "chain_order": 3,
+      "chain_name": "小鹬→鄙目鹬→高脚鹬"
     },
     "脆筒甜甜": {
       "name": "脆筒甜甜",
@@ -2465,7 +3164,10 @@
       ],
       "region_form": "",
       "name_pinyin": "cuitongtiantian",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 99,
+      "chain_order": 1,
+      "chain_name": "脆筒甜甜→香草甜甜→圣代甜甜"
     },
     "香草甜甜": {
       "name": "香草甜甜",
@@ -2476,7 +3178,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiangcaotiantian",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 99,
+      "chain_order": 2,
+      "chain_name": "脆筒甜甜→香草甜甜→圣代甜甜"
     },
     "圣代甜甜": {
       "name": "圣代甜甜",
@@ -2487,7 +3192,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shengdaitiantian",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 99,
+      "chain_order": 3,
+      "chain_name": "脆筒甜甜→香草甜甜→圣代甜甜"
     },
     "刺轮砣": {
       "name": "刺轮砣",
@@ -2497,7 +3205,10 @@
       ],
       "region_form": "",
       "name_pinyin": "ciluntuo",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 100,
+      "chain_order": 1,
+      "chain_name": "刺轮砣→月亮砣"
     },
     "月亮砣": {
       "name": "月亮砣",
@@ -2507,7 +3218,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yueliangtuo",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 100,
+      "chain_order": 2,
+      "chain_name": "刺轮砣→月亮砣"
     },
     "豆丁鱼": {
       "name": "豆丁鱼",
@@ -2518,7 +3232,10 @@
       ],
       "region_form": "",
       "name_pinyin": "doudingyu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 101,
+      "chain_order": 1,
+      "chain_name": "豆丁鱼→快鳍鱼→龙鱼"
     },
     "快鳍鱼": {
       "name": "快鳍鱼",
@@ -2529,7 +3246,10 @@
       ],
       "region_form": "",
       "name_pinyin": "kuaiqiyu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 101,
+      "chain_order": 2,
+      "chain_name": "豆丁鱼→快鳍鱼→龙鱼"
     },
     "龙鱼": {
       "name": "龙鱼",
@@ -2540,7 +3260,10 @@
       ],
       "region_form": "",
       "name_pinyin": "longyu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 101,
+      "chain_order": 3,
+      "chain_name": "豆丁鱼→快鳍鱼→龙鱼"
     },
     "胆小鳗鱼": {
       "name": "胆小鳗鱼",
@@ -2550,7 +3273,10 @@
       ],
       "region_form": "",
       "name_pinyin": "danxiaomanyu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 102,
+      "chain_order": 1,
+      "chain_name": "胆小鳗鱼→闪电鳗鱼"
     },
     "闪电鳗鱼": {
       "name": "闪电鳗鱼",
@@ -2560,7 +3286,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shandianmanyu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 102,
+      "chain_order": 2,
+      "chain_name": "胆小鳗鱼→闪电鳗鱼"
     },
     "翡翠水母": {
       "name": "翡翠水母",
@@ -2571,7 +3300,10 @@
       ],
       "region_form": "",
       "name_pinyin": "feicuishuimu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 103,
+      "chain_order": 1,
+      "chain_name": "翡翠水母→琉璃水母"
     },
     "琉璃水母": {
       "name": "琉璃水母",
@@ -2582,7 +3314,10 @@
       ],
       "region_form": "",
       "name_pinyin": "liulishuimu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 103,
+      "chain_order": 2,
+      "chain_name": "翡翠水母→琉璃水母"
     },
     "裘洛": {
       "name": "裘洛",
@@ -2593,7 +3328,10 @@
       ],
       "region_form": "",
       "name_pinyin": "qiuluo",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 104,
+      "chain_order": 1,
+      "chain_name": "裘洛→裘力→裘卡"
     },
     "裘力": {
       "name": "裘力",
@@ -2604,7 +3342,10 @@
       ],
       "region_form": "",
       "name_pinyin": "qiuli",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 104,
+      "chain_order": 2,
+      "chain_name": "裘洛→裘力→裘卡"
     },
     "裘卡": {
       "name": "裘卡",
@@ -2615,7 +3356,10 @@
       ],
       "region_form": "",
       "name_pinyin": "qiuka",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 104,
+      "chain_order": 3,
+      "chain_name": "裘洛→裘力→裘卡"
     },
     "可爱猿": {
       "name": "可爱猿",
@@ -2626,7 +3370,10 @@
       ],
       "region_form": "",
       "name_pinyin": "keaiyuan",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 105,
+      "chain_order": 1,
+      "chain_name": "可爱猿→炽热猿→火焰猿"
     },
     "炽热猿": {
       "name": "炽热猿",
@@ -2637,7 +3384,10 @@
       ],
       "region_form": "",
       "name_pinyin": "chireyuan",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 105,
+      "chain_order": 2,
+      "chain_name": "可爱猿→炽热猿→火焰猿"
     },
     "火焰猿": {
       "name": "火焰猿",
@@ -2648,7 +3398,10 @@
       ],
       "region_form": "",
       "name_pinyin": "huoyanyuan",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 105,
+      "chain_order": 3,
+      "chain_name": "可爱猿→炽热猿→火焰猿"
     },
     "布鲁斯": {
       "name": "布鲁斯",
@@ -2659,7 +3412,10 @@
       ],
       "region_form": "",
       "name_pinyin": "bulusi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 106,
+      "chain_order": 1,
+      "chain_name": "布鲁斯→雪顶布鲁斯→冰钻布鲁斯"
     },
     "雪顶布鲁斯": {
       "name": "雪顶布鲁斯",
@@ -2670,7 +3426,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xuedingbulusi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 106,
+      "chain_order": 2,
+      "chain_name": "布鲁斯→雪顶布鲁斯→冰钻布鲁斯"
     },
     "冰钻布鲁斯": {
       "name": "冰钻布鲁斯",
@@ -2681,7 +3440,10 @@
       ],
       "region_form": "",
       "name_pinyin": "bingzuanbulusi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 106,
+      "chain_order": 3,
+      "chain_name": "布鲁斯→雪顶布鲁斯→冰钻布鲁斯"
     },
     "治愈兔": {
       "name": "治愈兔",
@@ -2692,7 +3454,10 @@
       ],
       "region_form": "",
       "name_pinyin": "zhiyutu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 107,
+      "chain_order": 1,
+      "chain_name": "治愈兔→红丝绒→红绒十字"
     },
     "红丝绒": {
       "name": "红丝绒",
@@ -2703,7 +3468,10 @@
       ],
       "region_form": "",
       "name_pinyin": "hongsirong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 107,
+      "chain_order": 2,
+      "chain_name": "治愈兔→红丝绒→红绒十字"
     },
     "红绒十字": {
       "name": "红绒十字",
@@ -2714,7 +3482,10 @@
       ],
       "region_form": "",
       "name_pinyin": "hongrongshizi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 107,
+      "chain_order": 3,
+      "chain_name": "治愈兔→红丝绒→红绒十字"
     },
     "乌达": {
       "name": "乌达",
@@ -2724,7 +3495,10 @@
       ],
       "region_form": "",
       "name_pinyin": "wuda",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 108,
+      "chain_order": 1,
+      "chain_name": "乌达→迷你乌→乌拉塔"
     },
     "迷你乌": {
       "name": "迷你乌",
@@ -2734,7 +3508,10 @@
       ],
       "region_form": "",
       "name_pinyin": "miniwu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 108,
+      "chain_order": 2,
+      "chain_name": "乌达→迷你乌→乌拉塔"
     },
     "乌拉塔": {
       "name": "乌拉塔",
@@ -2744,7 +3521,10 @@
       ],
       "region_form": "",
       "name_pinyin": "wulata",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 108,
+      "chain_order": 3,
+      "chain_name": "乌达→迷你乌→乌拉塔"
     },
     "螺旋帕帕": {
       "name": "螺旋帕帕",
@@ -2755,7 +3535,10 @@
       ],
       "region_form": "",
       "name_pinyin": "luoxuanpapa",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 109,
+      "chain_order": 1,
+      "chain_name": "螺旋帕帕→帕帕斯卡"
     },
     "帕帕斯卡": {
       "name": "帕帕斯卡",
@@ -2766,7 +3549,10 @@
       ],
       "region_form": "",
       "name_pinyin": "papasika",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 109,
+      "chain_order": 2,
+      "chain_name": "螺旋帕帕→帕帕斯卡"
     },
     "机械方方": {
       "name": "机械方方",
@@ -2777,7 +3563,10 @@
       ],
       "region_form": "",
       "name_pinyin": "jixiefangfang",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 110,
+      "chain_order": 1,
+      "chain_name": "机械方方→多彩方方→立方人"
     },
     "多彩方方": {
       "name": "多彩方方",
@@ -2788,7 +3577,10 @@
       ],
       "region_form": "",
       "name_pinyin": "duocaifangfang",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 110,
+      "chain_order": 2,
+      "chain_name": "机械方方→多彩方方→立方人"
     },
     "立方人": {
       "name": "立方人",
@@ -2799,7 +3591,10 @@
       ],
       "region_form": "",
       "name_pinyin": "lifangren",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 110,
+      "chain_order": 3,
+      "chain_name": "机械方方→多彩方方→立方人"
     },
     "可立鸡": {
       "name": "可立鸡",
@@ -2810,7 +3605,10 @@
       ],
       "region_form": "",
       "name_pinyin": "keliji",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 111,
+      "chain_order": 1,
+      "chain_name": "可立鸡→晕晕鸡→绅士鸡"
     },
     "晕晕鸡": {
       "name": "晕晕鸡",
@@ -2821,7 +3619,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yunyunji",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 111,
+      "chain_order": 2,
+      "chain_name": "可立鸡→晕晕鸡→绅士鸡"
     },
     "绅士鸡": {
       "name": "绅士鸡",
@@ -2832,7 +3633,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shenshiji",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 111,
+      "chain_order": 3,
+      "chain_name": "可立鸡→晕晕鸡→绅士鸡"
     },
     "武者鸡": {
       "name": "武者鸡",
@@ -2843,7 +3647,10 @@
       ],
       "region_form": "",
       "name_pinyin": "wuzheji",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 112,
+      "chain_order": 3,
+      "chain_name": "可立鸡→晕晕鸡→武者鸡"
     },
     "优优": {
       "name": "优优",
@@ -2853,7 +3660,10 @@
       ],
       "region_form": "",
       "name_pinyin": "youyou",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 113,
+      "chain_order": 1,
+      "chain_name": "优优→绒光优优"
     },
     "绒光优优": {
       "name": "绒光优优",
@@ -2863,7 +3673,10 @@
       ],
       "region_form": "",
       "name_pinyin": "rongguangyouyou",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 113,
+      "chain_order": 2,
+      "chain_name": "优优→绒光优优"
     },
     "噼啪鸟": {
       "name": "噼啪鸟",
@@ -2874,7 +3687,10 @@
       ],
       "region_form": "",
       "name_pinyin": "pipaniao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 114,
+      "chain_order": 1,
+      "chain_name": "噼啪鸟"
     },
     "深蓝鲸": {
       "name": "深蓝鲸",
@@ -2885,7 +3701,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shenlanjing",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 115,
+      "chain_order": 1,
+      "chain_name": "深蓝鲸"
     },
     "格兰种子": {
       "name": "格兰种子",
@@ -2896,7 +3715,10 @@
       ],
       "region_form": "",
       "name_pinyin": "gelanzhongzi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 116,
+      "chain_order": 1,
+      "chain_name": "格兰种子→格兰花→格兰球"
     },
     "格兰花": {
       "name": "格兰花",
@@ -2907,7 +3729,10 @@
       ],
       "region_form": "",
       "name_pinyin": "gelanhua",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 116,
+      "chain_order": 2,
+      "chain_name": "格兰种子→格兰花→格兰球"
     },
     "格兰球": {
       "name": "格兰球",
@@ -2918,7 +3743,10 @@
       ],
       "region_form": "",
       "name_pinyin": "gelanqiu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 116,
+      "chain_order": 3,
+      "chain_name": "格兰种子→格兰花→格兰球"
     },
     "地鼠(枯水)": {
       "name": "地鼠(枯水)",
@@ -2928,7 +3756,10 @@
       ],
       "region_form": "",
       "name_pinyin": "dishu(kushui)",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 117,
+      "chain_order": 1,
+      "chain_name": "地鼠(枯水)→遁鼠(枯水)→遁地鼠(枯水)"
     },
     "遁鼠(枯水)": {
       "name": "遁鼠(枯水)",
@@ -2938,7 +3769,10 @@
       ],
       "region_form": "",
       "name_pinyin": "dunshu(kushui)",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 117,
+      "chain_order": 2,
+      "chain_name": "地鼠(枯水)→遁鼠(枯水)→遁地鼠(枯水)"
     },
     "遁地鼠(枯水)": {
       "name": "遁地鼠(枯水)",
@@ -2948,7 +3782,10 @@
       ],
       "region_form": "",
       "name_pinyin": "dundishu(kushui)",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 117,
+      "chain_order": 3,
+      "chain_name": "地鼠(枯水)→遁鼠(枯水)→遁地鼠(枯水)"
     },
     "地鼠(储水)": {
       "name": "地鼠(储水)",
@@ -2958,7 +3795,10 @@
       ],
       "region_form": "",
       "name_pinyin": "dishu(chushui)",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 118,
+      "chain_order": 1,
+      "chain_name": "地鼠(储水)→遁鼠(储水)→遁地鼠(储水)"
     },
     "遁鼠(储水)": {
       "name": "遁鼠(储水)",
@@ -2968,7 +3808,10 @@
       ],
       "region_form": "",
       "name_pinyin": "dunshu(chushui)",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 118,
+      "chain_order": 2,
+      "chain_name": "地鼠(储水)→遁鼠(储水)→遁地鼠(储水)"
     },
     "遁地鼠(储水)": {
       "name": "遁地鼠(储水)",
@@ -2978,7 +3821,10 @@
       ],
       "region_form": "",
       "name_pinyin": "dundishu(chushui)",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 118,
+      "chain_order": 3,
+      "chain_name": "地鼠(储水)→遁鼠(储水)→遁地鼠(储水)"
     },
     "墨鱿士": {
       "name": "墨鱿士",
@@ -2989,7 +3835,10 @@
       ],
       "region_form": "",
       "name_pinyin": "moyoushi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 119,
+      "chain_order": 1,
+      "chain_name": "墨鱿士→混乱鱿彩→秩序鱿墨"
     },
     "混乱鱿彩": {
       "name": "混乱鱿彩",
@@ -3000,7 +3849,10 @@
       ],
       "region_form": "",
       "name_pinyin": "hunluanyoucai",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 119,
+      "chain_order": 2,
+      "chain_name": "墨鱿士→混乱鱿彩→秩序鱿墨"
     },
     "秩序鱿墨": {
       "name": "秩序鱿墨",
@@ -3011,7 +3863,10 @@
       ],
       "region_form": "",
       "name_pinyin": "zhixuyoumo",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 119,
+      "chain_order": 2,
+      "chain_name": "墨鱿士→混乱鱿彩→秩序鱿墨"
     },
     "小甲虫": {
       "name": "小甲虫",
@@ -3022,7 +3877,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaojiachong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 121,
+      "chain_order": 1,
+      "chain_name": "小甲虫→铠甲虫"
     },
     "铠甲虫": {
       "name": "铠甲虫",
@@ -3033,7 +3891,10 @@
       ],
       "region_form": "",
       "name_pinyin": "kaijiachong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 121,
+      "chain_order": 2,
+      "chain_name": "小甲虫→铠甲虫"
     },
     "圣剑侍从": {
       "name": "圣剑侍从",
@@ -3044,7 +3905,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shengjianshicong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 122,
+      "chain_order": 1,
+      "chain_name": "圣剑侍从→圣剑-X"
     },
     "圣剑-X": {
       "name": "圣剑-X",
@@ -3055,7 +3919,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shengjian-X",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 122,
+      "chain_order": 2,
+      "chain_name": "圣剑侍从→圣剑-X"
     },
     "吸泥鸥": {
       "name": "吸泥鸥",
@@ -3066,7 +3933,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiniou",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 123,
+      "chain_order": 1,
+      "chain_name": "吸泥鸥→泥吼牙"
     },
     "泥吼牙": {
       "name": "泥吼牙",
@@ -3077,7 +3947,10 @@
       ],
       "region_form": "",
       "name_pinyin": "nihouya",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 123,
+      "chain_order": 2,
+      "chain_name": "吸泥鸥→泥吼牙"
     },
     "大头骨龙": {
       "name": "大头骨龙",
@@ -3088,7 +3961,10 @@
       ],
       "region_form": "",
       "name_pinyin": "datougulong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 124,
+      "chain_order": 1,
+      "chain_name": "大头骨龙→寂灭骨龙"
     },
     "寂灭骨龙": {
       "name": "寂灭骨龙",
@@ -3099,7 +3975,10 @@
       ],
       "region_form": "",
       "name_pinyin": "jimiegulong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 124,
+      "chain_order": 2,
+      "chain_name": "大头骨龙→寂灭骨龙"
     },
     "厉毒小萝": {
       "name": "厉毒小萝",
@@ -3110,7 +3989,10 @@
       ],
       "region_form": "",
       "name_pinyin": "liduxiaoluo",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 125,
+      "chain_order": 1,
+      "chain_name": "厉毒小萝→厉毒修萝"
     },
     "厉毒修萝": {
       "name": "厉毒修萝",
@@ -3121,7 +4003,10 @@
       ],
       "region_form": "",
       "name_pinyin": "liduxiuluo",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 125,
+      "chain_order": 2,
+      "chain_name": "厉毒小萝→厉毒修萝"
     },
     "小帕尔": {
       "name": "小帕尔",
@@ -3131,7 +4016,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaopaer",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 126,
+      "chain_order": 1,
+      "chain_name": "小帕尔→帕尔萨斯→龙息帕尔"
     },
     "帕尔萨斯": {
       "name": "帕尔萨斯",
@@ -3141,7 +4029,10 @@
       ],
       "region_form": "",
       "name_pinyin": "paersasi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 126,
+      "chain_order": 2,
+      "chain_name": "小帕尔→帕尔萨斯→龙息帕尔"
     },
     "龙息帕尔": {
       "name": "龙息帕尔",
@@ -3151,7 +4042,10 @@
       ],
       "region_form": "",
       "name_pinyin": "longxipaer",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 126,
+      "chain_order": 3,
+      "chain_name": "小帕尔→帕尔萨斯→龙息帕尔"
     },
     "毛头小蛛": {
       "name": "毛头小蛛",
@@ -3162,7 +4056,10 @@
       ],
       "region_form": "",
       "name_pinyin": "maotouxiaozhu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 127,
+      "chain_order": 1,
+      "chain_name": "毛头小蛛→捕尘长绒"
     },
     "捕尘长绒": {
       "name": "捕尘长绒",
@@ -3173,7 +4070,10 @@
       ],
       "region_form": "",
       "name_pinyin": "buchenzhangrong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 127,
+      "chain_order": 2,
+      "chain_name": "毛头小蛛→捕尘长绒"
     },
     "食尘短绒": {
       "name": "食尘短绒",
@@ -3184,7 +4084,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shichenduanrong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 128,
+      "chain_order": 2,
+      "chain_name": "毛头小蛛→食尘短绒"
     },
     "画精灵": {
       "name": "画精灵",
@@ -3195,7 +4098,10 @@
       ],
       "region_form": "",
       "name_pinyin": "huajingling",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 129,
+      "chain_order": 1,
+      "chain_name": "画精灵→画像守护→画间法师手→画间沉铁兽"
     },
     "画像守护": {
       "name": "画像守护",
@@ -3206,7 +4112,10 @@
       ],
       "region_form": "",
       "name_pinyin": "huaxiangshouhu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 129,
+      "chain_order": 2,
+      "chain_name": "画精灵→画像守护→画间法师手→画间沉铁兽"
     },
     "画间法师手": {
       "name": "画间法师手",
@@ -3217,7 +4126,10 @@
       ],
       "region_form": "",
       "name_pinyin": "huajianfashishou",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 129,
+      "chain_order": 3,
+      "chain_name": "画精灵→画像守护→画间法师手→画间沉铁兽"
     },
     "画间沉铁兽": {
       "name": "画间沉铁兽",
@@ -3228,7 +4140,10 @@
       ],
       "region_form": "",
       "name_pinyin": "huajianchentieshou",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 129,
+      "chain_order": 3,
+      "chain_name": "画精灵→画像守护→画间沉铁兽→画间沉铁兽"
     },
     "书魔虫": {
       "name": "书魔虫",
@@ -3239,7 +4154,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shumochong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 131,
+      "chain_order": 1,
+      "chain_name": "书魔虫→书卷守护→古卷执政官"
     },
     "书卷守护": {
       "name": "书卷守护",
@@ -3250,7 +4168,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shujuanshouhu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 131,
+      "chain_order": 2,
+      "chain_name": "书魔虫→书卷守护→古卷执政官→古卷匣魔像"
     },
     "古卷执政官": {
       "name": "古卷执政官",
@@ -3261,7 +4182,10 @@
       ],
       "region_form": "",
       "name_pinyin": "gujuanzhizhengguan",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 131,
+      "chain_order": 3,
+      "chain_name": "书魔虫→书卷守护→古卷执政官→古卷匣魔像"
     },
     "古卷匣魔像": {
       "name": "古卷匣魔像",
@@ -3272,7 +4196,10 @@
       ],
       "region_form": "",
       "name_pinyin": "gujuanxiamoxiang",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 132,
+      "chain_order": 3,
+      "chain_name": "书魔虫→书卷守护→古卷匣魔像→古卷匣魔像"
     },
     "绒绒": {
       "name": "绒绒",
@@ -3282,7 +4209,10 @@
       ],
       "region_form": "",
       "name_pinyin": "rongrong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 133,
+      "chain_order": 1,
+      "chain_name": "绒绒→小绒茧→绒仙子"
     },
     "小绒茧": {
       "name": "小绒茧",
@@ -3292,7 +4222,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaorongjian",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 133,
+      "chain_order": 2,
+      "chain_name": "绒绒→小绒茧→绒仙子"
     },
     "绒仙子": {
       "name": "绒仙子",
@@ -3302,7 +4235,10 @@
       ],
       "region_form": "",
       "name_pinyin": "rongxianzi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 133,
+      "chain_order": 3,
+      "chain_name": "绒绒→小绒茧→绒仙子"
     },
     "犀角鸟": {
       "name": "犀角鸟",
@@ -3312,7 +4248,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xijiaoniao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 134,
+      "chain_order": 1,
+      "chain_name": "犀角鸟→光纤兽→疾光千兽"
     },
     "光纤兽": {
       "name": "光纤兽",
@@ -3322,7 +4261,10 @@
       ],
       "region_form": "",
       "name_pinyin": "guangxianshou",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 134,
+      "chain_order": 2,
+      "chain_name": "犀角鸟→光纤兽→疾光千兽"
     },
     "疾光千兽": {
       "name": "疾光千兽",
@@ -3332,7 +4274,10 @@
       ],
       "region_form": "",
       "name_pinyin": "jiguangqianshou",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 134,
+      "chain_order": 3,
+      "chain_name": "犀角鸟→光纤兽→疾光千兽"
     },
     "果冻": {
       "name": "果冻",
@@ -3343,7 +4288,10 @@
       ],
       "region_form": "",
       "name_pinyin": "guodong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 135,
+      "chain_order": 1,
+      "chain_name": "果冻→抹茶布丁→椰浆布丁→熔岩布丁"
     },
     "抹茶布丁": {
       "name": "抹茶布丁",
@@ -3354,7 +4302,10 @@
       ],
       "region_form": "",
       "name_pinyin": "mochabuding",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 135,
+      "chain_order": 2,
+      "chain_name": "果冻→抹茶布丁→椰浆布丁→熔岩布丁"
     },
     "椰浆布丁": {
       "name": "椰浆布丁",
@@ -3364,7 +4315,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yejiangbuding",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 135,
+      "chain_order": 2,
+      "chain_name": "果冻→抹茶布丁→椰浆布丁→熔岩布丁"
     },
     "熔岩布丁": {
       "name": "熔岩布丁",
@@ -3374,7 +4328,10 @@
       ],
       "region_form": "",
       "name_pinyin": "rongyanbuding",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 135,
+      "chain_order": 2,
+      "chain_name": "果冻→抹茶布丁→椰浆布丁→熔岩布丁"
     },
     "星尘虫": {
       "name": "星尘虫",
@@ -3384,7 +4341,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xingchenchong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 138,
+      "chain_order": 1,
+      "chain_name": "星尘虫→落星虫→陨星虫"
     },
     "落星虫": {
       "name": "落星虫",
@@ -3394,7 +4354,10 @@
       ],
       "region_form": "",
       "name_pinyin": "luoxingchong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 138,
+      "chain_order": 2,
+      "chain_name": "星尘虫→落星虫→陨星虫"
     },
     "陨星虫": {
       "name": "陨星虫",
@@ -3404,7 +4367,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yunxingchong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 138,
+      "chain_order": 3,
+      "chain_name": "星尘虫→落星虫→陨星虫"
     },
     "双灯鱼": {
       "name": "双灯鱼",
@@ -3414,7 +4380,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shuangdengyu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 139,
+      "chain_order": 1,
+      "chain_name": "双灯鱼→利灯鱼"
     },
     "利灯鱼": {
       "name": "利灯鱼",
@@ -3424,7 +4393,10 @@
       ],
       "region_form": "",
       "name_pinyin": "lidengyu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 139,
+      "chain_order": 2,
+      "chain_name": "双灯鱼→利灯鱼"
     },
     "月牙雪熊": {
       "name": "月牙雪熊",
@@ -3435,7 +4407,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yueyaxuexiong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 140,
+      "chain_order": 1,
+      "chain_name": "月牙雪熊"
     },
     "嗜光嗡嗡": {
       "name": "嗜光嗡嗡",
@@ -3445,7 +4420,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shiguangwengweng",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 141,
+      "chain_order": 1,
+      "chain_name": "嗜光嗡嗡→窃光蚊"
     },
     "窃光蚊": {
       "name": "窃光蚊",
@@ -3455,7 +4433,10 @@
       ],
       "region_form": "",
       "name_pinyin": "qieguangwen",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 141,
+      "chain_order": 2,
+      "chain_name": "嗜光嗡嗡→窃光蚊"
     },
     "柴渣虫": {
       "name": "柴渣虫",
@@ -3466,7 +4447,10 @@
       ],
       "region_form": "",
       "name_pinyin": "chaizhachong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 142,
+      "chain_order": 1,
+      "chain_name": "柴渣虫→燃薪虫"
     },
     "燃薪虫": {
       "name": "燃薪虫",
@@ -3477,7 +4461,10 @@
       ],
       "region_form": "",
       "name_pinyin": "ranxinchong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 142,
+      "chain_order": 2,
+      "chain_name": "柴渣虫→燃薪虫"
     },
     "空空颅": {
       "name": "空空颅",
@@ -3488,7 +4475,10 @@
       ],
       "region_form": "",
       "name_pinyin": "kongkonglu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 143,
+      "chain_order": 1,
+      "chain_name": "空空颅→夜宿颅→夜枭"
     },
     "夜宿颅": {
       "name": "夜宿颅",
@@ -3499,7 +4489,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yesulu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 143,
+      "chain_order": 2,
+      "chain_name": "空空颅→夜宿颅→夜枭"
     },
     "夜枭": {
       "name": "夜枭",
@@ -3510,7 +4503,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yexiao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 143,
+      "chain_order": 3,
+      "chain_name": "空空颅→夜宿颅→夜枭"
     },
     "粉粉星": {
       "name": "粉粉星",
@@ -3521,7 +4517,10 @@
       ],
       "region_form": "",
       "name_pinyin": "fenfenxing",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 144,
+      "chain_order": 1,
+      "chain_name": "粉粉星→小皮球"
     },
     "小皮球": {
       "name": "小皮球",
@@ -3532,7 +4531,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaopiqiu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 144,
+      "chain_order": 2,
+      "chain_name": "粉粉星→小皮球"
     },
     "贝瑟": {
       "name": "贝瑟",
@@ -3542,7 +4544,10 @@
       ],
       "region_form": "",
       "name_pinyin": "beise",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 145,
+      "chain_order": 1,
+      "chain_name": "贝瑟→贝加尔→贝古斯"
     },
     "贝加尔": {
       "name": "贝加尔",
@@ -3552,7 +4557,10 @@
       ],
       "region_form": "",
       "name_pinyin": "beijiaer",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 145,
+      "chain_order": 2,
+      "chain_name": "贝瑟→贝加尔→贝古斯"
     },
     "贝古斯": {
       "name": "贝古斯",
@@ -3562,7 +4570,10 @@
       ],
       "region_form": "",
       "name_pinyin": "beigusi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 145,
+      "chain_order": 3,
+      "chain_name": "贝瑟→贝加尔→贝古斯"
     },
     "粉星仔": {
       "name": "粉星仔",
@@ -3573,7 +4584,10 @@
       ],
       "region_form": "",
       "name_pinyin": "fenxingzai",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 146,
+      "chain_order": 1,
+      "chain_name": "粉星仔→粉耳星兔→落陨星兔"
     },
     "粉耳星兔": {
       "name": "粉耳星兔",
@@ -3584,7 +4598,10 @@
       ],
       "region_form": "",
       "name_pinyin": "fenerxingtu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 146,
+      "chain_order": 2,
+      "chain_name": "粉星仔→粉耳星兔→落陨星兔"
     },
     "落陨星兔": {
       "name": "落陨星兔",
@@ -3595,7 +4612,10 @@
       ],
       "region_form": "",
       "name_pinyin": "luoyunxingtu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 146,
+      "chain_order": 2,
+      "chain_name": "粉星仔→粉耳星兔→落陨星兔"
     },
     "布瓜蝌": {
       "name": "布瓜蝌",
@@ -3605,7 +4625,10 @@
       ],
       "region_form": "",
       "name_pinyin": "buguake",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 148,
+      "chain_order": 1,
+      "chain_name": "布瓜蝌→上岸蛙"
     },
     "上岸蛙": {
       "name": "上岸蛙",
@@ -3615,7 +4638,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shanganwa",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 148,
+      "chain_order": 2,
+      "chain_name": "布瓜蝌→上岸蛙"
     },
     "火红尾": {
       "name": "火红尾",
@@ -3625,7 +4651,10 @@
       ],
       "region_form": "",
       "name_pinyin": "huohongwei",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 149,
+      "chain_order": 1,
+      "chain_name": "火红尾→雅丹鬃"
     },
     "雅丹鬃": {
       "name": "雅丹鬃",
@@ -3635,7 +4664,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yadanzong",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 149,
+      "chain_order": 2,
+      "chain_name": "火红尾→雅丹鬃"
     },
     "春团": {
       "name": "春团",
@@ -3646,7 +4678,10 @@
       ],
       "region_form": "",
       "name_pinyin": "chuntuan",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 150,
+      "chain_order": 1,
+      "chain_name": "春团→春兔→春花兔"
     },
     "春兔": {
       "name": "春兔",
@@ -3657,7 +4692,10 @@
       ],
       "region_form": "",
       "name_pinyin": "chuntu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 150,
+      "chain_order": 2,
+      "chain_name": "春团→春兔→春花兔"
     },
     "春花兔": {
       "name": "春花兔",
@@ -3668,7 +4706,10 @@
       ],
       "region_form": "",
       "name_pinyin": "chunhuatu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 150,
+      "chain_order": 3,
+      "chain_name": "春团→春兔→春花兔"
     },
     "幽星光": {
       "name": "幽星光",
@@ -3679,7 +4720,10 @@
       ],
       "region_form": "",
       "name_pinyin": "youxingguang",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 151,
+      "chain_order": 1,
+      "chain_name": "幽星光→曜星光→暮星辰"
     },
     "曜星光": {
       "name": "曜星光",
@@ -3690,7 +4734,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yaoxingguang",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 151,
+      "chain_order": 2,
+      "chain_name": "幽星光→曜星光→暮星辰"
     },
     "暮星辰": {
       "name": "暮星辰",
@@ -3701,7 +4748,10 @@
       ],
       "region_form": "",
       "name_pinyin": "muxingchen",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 151,
+      "chain_order": 3,
+      "chain_name": "幽星光→曜星光→暮星辰"
     },
     "钨丝贝贝": {
       "name": "钨丝贝贝",
@@ -3711,7 +4761,10 @@
       ],
       "region_form": "",
       "name_pinyin": "wusibeibei",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 152,
+      "chain_order": 1,
+      "chain_name": "钨丝贝贝→辉光幕机→机幕方舟"
     },
     "辉光幕机": {
       "name": "辉光幕机",
@@ -3721,7 +4774,10 @@
       ],
       "region_form": "",
       "name_pinyin": "huiguangmuji",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 152,
+      "chain_order": 2,
+      "chain_name": "钨丝贝贝→辉光幕机→机幕方舟"
     },
     "机幕方舟": {
       "name": "机幕方舟",
@@ -3731,7 +4787,10 @@
       ],
       "region_form": "",
       "name_pinyin": "jimufangzhou",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 152,
+      "chain_order": 3,
+      "chain_name": "钨丝贝贝→辉光幕机→机幕方舟"
     },
     "凡雀": {
       "name": "凡雀",
@@ -3741,7 +4800,10 @@
       ],
       "region_form": "",
       "name_pinyin": "fanque",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 153,
+      "chain_order": 1,
+      "chain_name": "凡雀→紫翎鹰→凡鹰"
     },
     "紫翎鹰": {
       "name": "紫翎鹰",
@@ -3751,7 +4813,10 @@
       ],
       "region_form": "",
       "name_pinyin": "zilingying",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 153,
+      "chain_order": 2,
+      "chain_name": "凡雀→紫翎鹰→凡鹰"
     },
     "凡鹰": {
       "name": "凡鹰",
@@ -3761,7 +4826,10 @@
       ],
       "region_form": "",
       "name_pinyin": "fanying",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 153,
+      "chain_order": 3,
+      "chain_name": "凡雀→紫翎鹰→凡鹰"
     },
     "小雪人": {
       "name": "小雪人",
@@ -3771,7 +4839,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaoxueren",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 154,
+      "chain_order": 1,
+      "chain_name": "小雪人→雪怪"
     },
     "雪怪": {
       "name": "雪怪",
@@ -3781,7 +4852,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xueguai",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 154,
+      "chain_order": 2,
+      "chain_name": "小雪人→雪怪"
     },
     "爆焰仔": {
       "name": "爆焰仔",
@@ -3791,7 +4865,10 @@
       ],
       "region_form": "",
       "name_pinyin": "baoyanzai",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 155,
+      "chain_order": 1,
+      "chain_name": "爆焰仔→爆焰喷喷"
     },
     "爆焰喷喷": {
       "name": "爆焰喷喷",
@@ -3801,7 +4878,10 @@
       ],
       "region_form": "",
       "name_pinyin": "baoyanpenpen",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 155,
+      "chain_order": 2,
+      "chain_name": "爆焰仔→爆焰喷喷"
     },
     "猴麦仔": {
       "name": "猴麦仔",
@@ -3812,7 +4892,10 @@
       ],
       "region_form": "",
       "name_pinyin": "houmaizai",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 156,
+      "chain_order": 1,
+      "chain_name": "猴麦仔→音碟吼"
     },
     "音碟吼": {
       "name": "音碟吼",
@@ -3823,7 +4906,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yindiehou",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 156,
+      "chain_order": 2,
+      "chain_name": "猴麦仔→音碟吼"
     },
     "加油海葵": {
       "name": "加油海葵",
@@ -3834,7 +4920,10 @@
       ],
       "region_form": "",
       "name_pinyin": "jiayouhaikui",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 157,
+      "chain_order": 1,
+      "chain_name": "加油海葵→加油蟹(单手)→加油蟹(双手)"
     },
     "加油蟹(单手)": {
       "name": "加油蟹(单手)",
@@ -3845,7 +4934,10 @@
       ],
       "region_form": "",
       "name_pinyin": "jiayouxie(danshou)",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 157,
+      "chain_order": 2,
+      "chain_name": "加油海葵→加油蟹(单手)→加油蟹(双手)"
     },
     "加油蟹(双手)": {
       "name": "加油蟹(双手)",
@@ -3856,7 +4948,10 @@
       ],
       "region_form": "",
       "name_pinyin": "jiayouxie(shuangshou)",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 157,
+      "chain_order": 2,
+      "chain_name": "加油海葵→加油蟹(单手)→加油蟹(双手)"
     },
     "小丑豆豆": {
       "name": "小丑豆豆",
@@ -3867,7 +4962,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaochoudoudou",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 160,
+      "chain_order": 1,
+      "chain_name": "小丑豆豆→小丑兔→小丑公爵"
     },
     "小丑兔": {
       "name": "小丑兔",
@@ -3878,7 +4976,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaochoutu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 160,
+      "chain_order": 2,
+      "chain_name": "小丑豆豆→小丑兔→小丑公爵"
     },
     "小丑公爵": {
       "name": "小丑公爵",
@@ -3889,7 +4990,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaochougongjue",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 160,
+      "chain_order": 3,
+      "chain_name": "小丑豆豆→小丑兔→小丑公爵"
     },
     "烟花团": {
       "name": "烟花团",
@@ -3900,7 +5004,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yanhuatuan",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 161,
+      "chain_order": 1,
+      "chain_name": "烟花团→烟花伯爵"
     },
     "烟花伯爵": {
       "name": "烟花伯爵",
@@ -3911,7 +5018,10 @@
       ],
       "region_form": "",
       "name_pinyin": "yanhuabojue",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 161,
+      "chain_order": 2,
+      "chain_name": "烟花团→烟花伯爵"
     },
     "咕咕帽": {
       "name": "咕咕帽",
@@ -3921,7 +5031,10 @@
       ],
       "region_form": "",
       "name_pinyin": "gugumao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 162,
+      "chain_order": 1,
+      "chain_name": "咕咕帽→咕德帽帽"
     },
     "咕德帽帽": {
       "name": "咕德帽帽",
@@ -3931,7 +5044,10 @@
       ],
       "region_form": "",
       "name_pinyin": "gudemaomao",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 162,
+      "chain_order": 2,
+      "chain_name": "咕咕帽→咕德帽帽"
     },
     "炫光迪迪": {
       "name": "炫光迪迪",
@@ -3942,7 +5058,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xuanguangdidi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 163,
+      "chain_order": 1,
+      "chain_name": "炫光迪迪→霹雳迪迪"
     },
     "霹雳迪迪": {
       "name": "霹雳迪迪",
@@ -3953,7 +5072,10 @@
       ],
       "region_form": "",
       "name_pinyin": "pilididi",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 163,
+      "chain_order": 2,
+      "chain_name": "炫光迪迪→霹雳迪迪"
     },
     "小鼓象": {
       "name": "小鼓象",
@@ -3964,7 +5086,10 @@
       ],
       "region_form": "",
       "name_pinyin": "xiaoguxiang",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 164,
+      "chain_order": 1,
+      "chain_name": "小鼓象→巨鼓象"
     },
     "巨鼓象": {
       "name": "巨鼓象",
@@ -3975,7 +5100,10 @@
       ],
       "region_form": "",
       "name_pinyin": "juguxiang",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 164,
+      "chain_order": 2,
+      "chain_name": "小鼓象→巨鼓象"
     },
     "牵线木偶": {
       "name": "牵线木偶",
@@ -3986,7 +5114,10 @@
       ],
       "region_form": "",
       "name_pinyin": "qianxianmuou",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 165,
+      "chain_order": 1,
+      "chain_name": "牵线木偶→帅帅魔偶"
     },
     "帅帅魔偶": {
       "name": "帅帅魔偶",
@@ -3997,7 +5128,10 @@
       ],
       "region_form": "",
       "name_pinyin": "shuaishuaimoou",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 165,
+      "chain_order": 2,
+      "chain_name": "牵线木偶→帅帅魔偶"
     },
     "学院呱呱": {
       "name": "学院呱呱",
@@ -4007,902 +5141,2611 @@
       ],
       "region_form": "",
       "name_pinyin": "xueyuangugu",
-      "rf_pinyin": ""
+      "rf_pinyin": "",
+      "chain_id": 166,
+      "chain_order": 1,
+      "chain_name": "学院呱呱"
+    },
+    "烈钻鸟": {
+      "name": "烈钻鸟",
+      "display_name": "烈钻鸟",
+      "egg_groups": [
+        "天空组",
+        "动物组"
+      ],
+      "region_form": "",
+      "name_pinyin": "liezuanniao",
+      "rf_pinyin": "",
+      "chain_id": 500,
+      "chain_order": 1,
+      "chain_name": "烈钻鸟→长尾火鸟→火羽"
+    },
+    "长尾火鸟": {
+      "name": "长尾火鸟",
+      "display_name": "长尾火鸟",
+      "egg_groups": [
+        "天空组",
+        "动物组"
+      ],
+      "region_form": "",
+      "name_pinyin": "zhangweihuoniao",
+      "rf_pinyin": "",
+      "chain_id": 500,
+      "chain_order": 2,
+      "chain_name": "烈钻鸟→长尾火鸟→火羽"
+    },
+    "火羽": {
+      "name": "火羽",
+      "display_name": "火羽",
+      "egg_groups": [
+        "天空组",
+        "动物组"
+      ],
+      "region_form": "",
+      "name_pinyin": "huoyu",
+      "rf_pinyin": "",
+      "chain_id": 500,
+      "chain_order": 3,
+      "chain_name": "烈钻鸟→长尾火鸟→火羽"
+    },
+    "叮叮卯": {
+      "name": "叮叮卯",
+      "display_name": "叮叮卯",
+      "egg_groups": [
+        "昆虫组",
+        "机械组"
+      ],
+      "region_form": "",
+      "name_pinyin": "dingdingmao",
+      "rf_pinyin": "",
+      "chain_id": 501,
+      "chain_order": 1,
+      "chain_name": "叮叮卯→飞飞钥"
+    },
+    "飞飞钥": {
+      "name": "飞飞钥",
+      "display_name": "飞飞钥",
+      "egg_groups": [
+        "昆虫组",
+        "机械组"
+      ],
+      "region_form": "",
+      "name_pinyin": "feifeiyao",
+      "rf_pinyin": "",
+      "chain_id": 501,
+      "chain_order": 2,
+      "chain_name": "叮叮卯→飞飞钥"
+    },
+    "碎晶蝎": {
+      "name": "碎晶蝎",
+      "display_name": "碎晶蝎",
+      "egg_groups": [
+        "昆虫组",
+        "大地组"
+      ],
+      "region_form": "",
+      "name_pinyin": "suijingxie",
+      "rf_pinyin": "",
+      "chain_id": 502,
+      "chain_order": 1,
+      "chain_name": "碎晶蝎→晶尾蝎→蝎子王"
+    },
+    "晶尾蝎": {
+      "name": "晶尾蝎",
+      "display_name": "晶尾蝎",
+      "egg_groups": [
+        "昆虫组",
+        "大地组"
+      ],
+      "region_form": "",
+      "name_pinyin": "jingweixie",
+      "rf_pinyin": "",
+      "chain_id": 502,
+      "chain_order": 2,
+      "chain_name": "碎晶蝎→晶尾蝎→蝎子王"
+    },
+    "蝎子王": {
+      "name": "蝎子王",
+      "display_name": "蝎子王",
+      "egg_groups": [
+        "昆虫组",
+        "大地组"
+      ],
+      "region_form": "",
+      "name_pinyin": "xieziwang",
+      "rf_pinyin": "",
+      "chain_id": 502,
+      "chain_order": 3,
+      "chain_name": "碎晶蝎→晶尾蝎→蝎子王"
+    },
+    "森豆丁": {
+      "name": "森豆丁",
+      "display_name": "森豆丁",
+      "egg_groups": [
+        "巨灵组",
+        "拟人组"
+      ],
+      "region_form": "",
+      "name_pinyin": "sendouding",
+      "rf_pinyin": "",
+      "chain_id": 503,
+      "chain_order": 1,
+      "chain_name": "森豆丁→森蛮人→森巨人"
+    },
+    "森蛮人": {
+      "name": "森蛮人",
+      "display_name": "森蛮人",
+      "egg_groups": [
+        "巨灵组",
+        "拟人组"
+      ],
+      "region_form": "",
+      "name_pinyin": "senmanren",
+      "rf_pinyin": "",
+      "chain_id": 503,
+      "chain_order": 2,
+      "chain_name": "森豆丁→森蛮人→森巨人"
+    },
+    "森巨人": {
+      "name": "森巨人",
+      "display_name": "森巨人",
+      "egg_groups": [
+        "巨灵组",
+        "拟人组"
+      ],
+      "region_form": "",
+      "name_pinyin": "senjuren",
+      "rf_pinyin": "",
+      "chain_id": 503,
+      "chain_order": 3,
+      "chain_name": "森豆丁→森蛮人→森巨人"
+    },
+    "霹雳宝宝": {
+      "name": "霹雳宝宝",
+      "display_name": "霹雳宝宝",
+      "egg_groups": [
+        "巨灵组",
+        "拟人组"
+      ],
+      "region_form": "",
+      "name_pinyin": "pilibaobao",
+      "rf_pinyin": "",
+      "chain_id": 504,
+      "chain_order": 1,
+      "chain_name": "霹雳宝宝→雷鸣小子→雷神之子"
+    },
+    "雷鸣小子": {
+      "name": "雷鸣小子",
+      "display_name": "雷鸣小子",
+      "egg_groups": [
+        "巨灵组",
+        "拟人组"
+      ],
+      "region_form": "",
+      "name_pinyin": "leimingxiaozi",
+      "rf_pinyin": "",
+      "chain_id": 504,
+      "chain_order": 2,
+      "chain_name": "霹雳宝宝→雷鸣小子→雷神之子"
+    },
+    "雷神之子": {
+      "name": "雷神之子",
+      "display_name": "雷神之子",
+      "egg_groups": [
+        "巨灵组",
+        "拟人组"
+      ],
+      "region_form": "",
+      "name_pinyin": "leishenzhizi",
+      "rf_pinyin": "",
+      "chain_id": 504,
+      "chain_order": 3,
+      "chain_name": "霹雳宝宝→雷鸣小子→雷神之子"
+    },
+    "雪灵兽": {
+      "name": "雪灵兽",
+      "display_name": "雪灵兽",
+      "egg_groups": [
+        "动物组"
+      ],
+      "region_form": "",
+      "name_pinyin": "xuelingshou",
+      "rf_pinyin": "",
+      "chain_id": 505,
+      "chain_order": 1,
+      "chain_name": "雪灵兽→幻雪兽→饮雪狂兽"
+    },
+    "幻雪兽": {
+      "name": "幻雪兽",
+      "display_name": "幻雪兽",
+      "egg_groups": [
+        "动物组"
+      ],
+      "region_form": "",
+      "name_pinyin": "huanxueshou",
+      "rf_pinyin": "",
+      "chain_id": 505,
+      "chain_order": 2,
+      "chain_name": "雪灵兽→幻雪兽→饮雪狂兽"
+    },
+    "饮雪狂兽": {
+      "name": "饮雪狂兽",
+      "display_name": "饮雪狂兽",
+      "egg_groups": [
+        "动物组"
+      ],
+      "region_form": "",
+      "name_pinyin": "yinxuekuangshou",
+      "rf_pinyin": "",
+      "chain_id": 505,
+      "chain_order": 3,
+      "chain_name": "雪灵兽→幻雪兽→饮雪狂兽"
+    },
+    "火豆丁": {
+      "name": "火豆丁",
+      "display_name": "火豆丁",
+      "egg_groups": [
+        "巨灵组",
+        "拟人组"
+      ],
+      "region_form": "",
+      "name_pinyin": "huodouding",
+      "rf_pinyin": "",
+      "chain_id": 506,
+      "chain_order": 1,
+      "chain_name": "火豆丁→火蛮人→火巨人"
+    },
+    "火蛮人": {
+      "name": "火蛮人",
+      "display_name": "火蛮人",
+      "egg_groups": [
+        "巨灵组",
+        "拟人组"
+      ],
+      "region_form": "",
+      "name_pinyin": "huomanren",
+      "rf_pinyin": "",
+      "chain_id": 506,
+      "chain_order": 2,
+      "chain_name": "火豆丁→火蛮人→火巨人"
+    },
+    "火巨人": {
+      "name": "火巨人",
+      "display_name": "火巨人",
+      "egg_groups": [
+        "巨灵组",
+        "拟人组"
+      ],
+      "region_form": "",
+      "name_pinyin": "huojuren",
+      "rf_pinyin": "",
+      "chain_id": 506,
+      "chain_order": 3,
+      "chain_name": "火豆丁→火蛮人→火巨人"
+    },
+    "友爱天天": {
+      "name": "友爱天天",
+      "display_name": "友爱天天",
+      "egg_groups": [
+        "天空组",
+        "妖精组"
+      ],
+      "region_form": "",
+      "name_pinyin": "youaitiantian",
+      "rf_pinyin": "",
+      "chain_id": 507,
+      "chain_order": 1,
+      "chain_name": "友爱天天→友爱星飞"
+    },
+    "友爱星飞": {
+      "name": "友爱星飞",
+      "display_name": "友爱星飞",
+      "egg_groups": [
+        "天空组",
+        "妖精组"
+      ],
+      "region_form": "",
+      "name_pinyin": "youaixingfei",
+      "rf_pinyin": "",
+      "chain_id": 507,
+      "chain_order": 2,
+      "chain_name": "友爱天天→友爱星飞"
+    },
+    "莫比乌乌": {
+      "name": "莫比乌乌",
+      "display_name": "莫比乌乌",
+      "egg_groups": [
+        "妖精组",
+        "龙组"
+      ],
+      "region_form": "",
+      "name_pinyin": "mobiwuwu",
+      "rf_pinyin": "",
+      "chain_id": 508,
+      "chain_order": 1,
+      "chain_name": "莫比乌乌→克莱因龙"
+    },
+    "克莱因龙": {
+      "name": "克莱因龙",
+      "display_name": "克莱因龙",
+      "egg_groups": [
+        "妖精组",
+        "龙组"
+      ],
+      "region_form": "",
+      "name_pinyin": "kelaiyinlong",
+      "rf_pinyin": "",
+      "chain_id": 508,
+      "chain_order": 2,
+      "chain_name": "莫比乌乌→克莱因龙"
+    },
+    "瑰眼仔": {
+      "name": "瑰眼仔",
+      "display_name": "瑰眼仔",
+      "egg_groups": [
+        "巨灵组",
+        "昆虫组"
+      ],
+      "region_form": "",
+      "name_pinyin": "guiyanzai",
+      "rf_pinyin": "",
+      "chain_id": 509,
+      "chain_order": 1,
+      "chain_name": "瑰眼仔→耳翎瑰魅→邪眼巨魔"
+    },
+    "耳翎瑰魅": {
+      "name": "耳翎瑰魅",
+      "display_name": "耳翎瑰魅",
+      "egg_groups": [
+        "巨灵组",
+        "昆虫组"
+      ],
+      "region_form": "",
+      "name_pinyin": "erlingguimei",
+      "rf_pinyin": "",
+      "chain_id": 509,
+      "chain_order": 2,
+      "chain_name": "瑰眼仔→耳翎瑰魅→邪眼巨魔"
+    },
+    "邪眼巨魔": {
+      "name": "邪眼巨魔",
+      "display_name": "邪眼巨魔",
+      "egg_groups": [
+        "巨灵组",
+        "昆虫组"
+      ],
+      "region_form": "",
+      "name_pinyin": "xieyanjumo",
+      "rf_pinyin": "",
+      "chain_id": 509,
+      "chain_order": 3,
+      "chain_name": "瑰眼仔→耳翎瑰魅→邪眼巨魔"
+    },
+    "觅觅蝠": {
+      "name": "觅觅蝠",
+      "display_name": "觅觅蝠",
+      "egg_groups": [
+        "巨灵组",
+        "天空组"
+      ],
+      "region_form": "",
+      "name_pinyin": "mimifu",
+      "rf_pinyin": "",
+      "chain_id": 510,
+      "chain_order": 1,
+      "chain_name": "觅觅蝠→翻翻蝠→夜游魔"
+    },
+    "翻翻蝠": {
+      "name": "翻翻蝠",
+      "display_name": "翻翻蝠",
+      "egg_groups": [
+        "巨灵组",
+        "天空组"
+      ],
+      "region_form": "",
+      "name_pinyin": "fanfanfu",
+      "rf_pinyin": "",
+      "chain_id": 510,
+      "chain_order": 2,
+      "chain_name": "觅觅蝠→翻翻蝠→夜游魔"
+    },
+    "夜游魔": {
+      "name": "夜游魔",
+      "display_name": "夜游魔",
+      "egg_groups": [
+        "巨灵组",
+        "天空组"
+      ],
+      "region_form": "",
+      "name_pinyin": "yeyoumo",
+      "rf_pinyin": "",
+      "chain_id": 510,
+      "chain_order": 3,
+      "chain_name": "觅觅蝠→翻翻蝠→夜游魔"
+    },
+    "芽眼魔": {
+      "name": "芽眼魔",
+      "display_name": "芽眼魔",
+      "egg_groups": [
+        "巨灵组",
+        "妖精组"
+      ],
+      "region_form": "",
+      "name_pinyin": "yayanmo",
+      "rf_pinyin": "",
+      "chain_id": 511,
+      "chain_order": 1,
+      "chain_name": "芽眼魔→叶眼魔→障眼魔"
+    },
+    "叶眼魔": {
+      "name": "叶眼魔",
+      "display_name": "叶眼魔",
+      "egg_groups": [
+        "巨灵组",
+        "妖精组"
+      ],
+      "region_form": "",
+      "name_pinyin": "yeyanmo",
+      "rf_pinyin": "",
+      "chain_id": 511,
+      "chain_order": 2,
+      "chain_name": "芽眼魔→叶眼魔→障眼魔"
+    },
+    "障眼魔": {
+      "name": "障眼魔",
+      "display_name": "障眼魔",
+      "egg_groups": [
+        "巨灵组",
+        "妖精组"
+      ],
+      "region_form": "",
+      "name_pinyin": "zhangyanmo",
+      "rf_pinyin": "",
+      "chain_id": 511,
+      "chain_order": 3,
+      "chain_name": "芽眼魔→叶眼魔→障眼魔"
+    },
+    "星云旅者": {
+      "name": "星云旅者",
+      "display_name": "星云旅者",
+      "egg_groups": [
+        "妖精组",
+        "魔力组"
+      ],
+      "region_form": "",
+      "name_pinyin": "xingyunlvzhe",
+      "rf_pinyin": "",
+      "chain_id": 525,
+      "chain_order": 1,
+      "chain_name": "星云旅者"
+    },
+    "点点": {
+      "name": "点点",
+      "display_name": "点点",
+      "egg_groups": [
+        "动物组",
+        "妖精组"
+      ],
+      "region_form": "",
+      "name_pinyin": "diandian",
+      "rf_pinyin": "",
+      "chain_id": 512,
+      "chain_order": 1,
+      "chain_name": "点点→珀尔鼬"
+    },
+    "珀尔鼬": {
+      "name": "珀尔鼬",
+      "display_name": "珀尔鼬",
+      "egg_groups": [
+        "动物组",
+        "妖精组"
+      ],
+      "region_form": "",
+      "name_pinyin": "poeryou",
+      "rf_pinyin": "",
+      "chain_id": 512,
+      "chain_order": 2,
+      "chain_name": "点点→珀尔鼬"
+    },
+    "不咕钟": {
+      "name": "不咕钟",
+      "display_name": "不咕钟",
+      "egg_groups": [
+        "天空组",
+        "机械组"
+      ],
+      "region_form": "",
+      "name_pinyin": "buguzhong",
+      "rf_pinyin": "",
+      "chain_id": 513,
+      "chain_order": 1,
+      "chain_name": "不咕钟→溯源钟"
+    },
+    "溯源钟": {
+      "name": "溯源钟",
+      "display_name": "溯源钟",
+      "egg_groups": [
+        "天空组",
+        "机械组"
+      ],
+      "region_form": "",
+      "name_pinyin": "suyuanzhong",
+      "rf_pinyin": "",
+      "chain_id": 513,
+      "chain_order": 2,
+      "chain_name": "不咕钟→溯源钟"
+    },
+    "加灵": {
+      "name": "加灵",
+      "display_name": "加灵",
+      "egg_groups": [
+        "无法孵蛋"
+      ],
+      "region_form": "",
+      "name_pinyin": "jialing",
+      "rf_pinyin": "",
+      "chain_id": 514,
+      "chain_order": 1,
+      "chain_name": "加灵→加益→加尔/黑化加尔"
+    },
+    "加益": {
+      "name": "加益",
+      "display_name": "加益",
+      "egg_groups": [
+        "无法孵蛋"
+      ],
+      "region_form": "",
+      "name_pinyin": "jiayi",
+      "rf_pinyin": "",
+      "chain_id": 514,
+      "chain_order": 2,
+      "chain_name": "加灵→加益→加尔/黑化加尔"
+    },
+    "加尔": {
+      "name": "加尔",
+      "display_name": "加尔",
+      "egg_groups": [
+        "无法孵蛋"
+      ],
+      "region_form": "",
+      "name_pinyin": "jiaer",
+      "rf_pinyin": "",
+      "chain_id": 514,
+      "chain_order": 3,
+      "chain_name": "加灵→加益→加尔/黑化加尔"
+    },
+    "黑化加尔": {
+      "name": "黑化加尔",
+      "display_name": "黑化加尔",
+      "egg_groups": [
+        "无法孵蛋"
+      ],
+      "region_form": "",
+      "name_pinyin": "heihuajiaer",
+      "rf_pinyin": "",
+      "chain_id": 514,
+      "chain_order": 4,
+      "chain_name": "黑化加尔/黑化加尔"
+    },
+    "咬咬小子": {
+      "name": "咬咬小子",
+      "display_name": "咬咬小子",
+      "egg_groups": [
+        "无法孵蛋"
+      ],
+      "region_form": "",
+      "name_pinyin": "yaoyaoxiaozi",
+      "rf_pinyin": "",
+      "chain_id": 515,
+      "chain_order": 1,
+      "chain_name": "咬咬小子→胡桃王子"
+    },
+    "胡桃王子": {
+      "name": "胡桃王子",
+      "display_name": "胡桃王子",
+      "egg_groups": [
+        "无法孵蛋"
+      ],
+      "region_form": "",
+      "name_pinyin": "hutaowangzi",
+      "rf_pinyin": "",
+      "chain_id": 515,
+      "chain_order": 2,
+      "chain_name": "咬咬小子→胡桃王子"
+    },
+    "足尖元件": {
+      "name": "足尖元件",
+      "display_name": "足尖元件",
+      "egg_groups": [
+        "无法孵蛋"
+      ],
+      "region_form": "",
+      "name_pinyin": "zujianyuanjian",
+      "rf_pinyin": "",
+      "chain_id": 516,
+      "chain_order": 1,
+      "chain_name": "足尖元件→离心舞者"
+    },
+    "离心舞者": {
+      "name": "离心舞者",
+      "display_name": "离心舞者",
+      "egg_groups": [
+        "无法孵蛋"
+      ],
+      "region_form": "",
+      "name_pinyin": "lixinwuzhe",
+      "rf_pinyin": "",
+      "chain_id": 516,
+      "chain_order": 2,
+      "chain_name": "足尖元件→离心舞者"
+    },
+    "蝴蝶陶陶": {
+      "name": "蝴蝶陶陶",
+      "display_name": "蝴蝶陶陶",
+      "egg_groups": [
+        "动物组",
+        "拟人组"
+      ],
+      "region_form": "",
+      "name_pinyin": "hudietaotao",
+      "rf_pinyin": "",
+      "chain_id": 527,
+      "chain_order": 1,
+      "chain_name": "蝴蝶陶陶→铆钉毛毛→徘徊爪爪"
+    },
+    "铆钉毛毛": {
+      "name": "铆钉毛毛",
+      "display_name": "铆钉毛毛",
+      "egg_groups": [
+        "动物组",
+        "拟人组"
+      ],
+      "region_form": "",
+      "name_pinyin": "maodingmaomao",
+      "rf_pinyin": "",
+      "chain_id": 527,
+      "chain_order": 2,
+      "chain_name": "蝴蝶陶陶→铆钉毛毛→徘徊爪爪"
+    },
+    "徘徊爪爪": {
+      "name": "徘徊爪爪",
+      "display_name": "徘徊爪爪",
+      "egg_groups": [
+        "动物组",
+        "拟人组"
+      ],
+      "region_form": "",
+      "name_pinyin": "paihuaizhaozhao",
+      "rf_pinyin": "",
+      "chain_id": 527,
+      "chain_order": 3,
+      "chain_name": "蝴蝶陶陶→铆钉毛毛→徘徊爪爪"
+    },
+    "苞米仔": {
+      "name": "苞米仔",
+      "display_name": "苞米仔",
+      "egg_groups": [
+        "植物组",
+        "拟人组"
+      ],
+      "region_form": "",
+      "name_pinyin": "baomizai",
+      "rf_pinyin": "",
+      "chain_id": 518,
+      "chain_order": 1,
+      "chain_name": "苞米仔→炮米花"
+    },
+    "炮米花": {
+      "name": "炮米花",
+      "display_name": "炮米花",
+      "egg_groups": [
+        "植物组",
+        "拟人组"
+      ],
+      "region_form": "",
+      "name_pinyin": "paomihua",
+      "rf_pinyin": "",
+      "chain_id": 518,
+      "chain_order": 2,
+      "chain_name": "苞米仔→炮米花"
+    },
+    "十字蝌蚪": {
+      "name": "十字蝌蚪",
+      "display_name": "十字蝌蚪",
+      "egg_groups": [
+        "两栖组",
+        "拟人组"
+      ],
+      "region_form": "",
+      "name_pinyin": "shizikedou",
+      "rf_pinyin": "",
+      "chain_id": 519,
+      "chain_order": 1,
+      "chain_name": "十字蝌蚪→十字蛙→深渊蛙"
+    },
+    "十字蛙": {
+      "name": "十字蛙",
+      "display_name": "十字蛙",
+      "egg_groups": [
+        "两栖组",
+        "拟人组"
+      ],
+      "region_form": "",
+      "name_pinyin": "shiziwa",
+      "rf_pinyin": "",
+      "chain_id": 519,
+      "chain_order": 2,
+      "chain_name": "十字蝌蚪→十字蛙→深渊蛙"
+    },
+    "深渊蛙": {
+      "name": "深渊蛙",
+      "display_name": "深渊蛙",
+      "egg_groups": [
+        "两栖组",
+        "拟人组"
+      ],
+      "region_form": "",
+      "name_pinyin": "shenyuanwa",
+      "rf_pinyin": "",
+      "chain_id": 519,
+      "chain_order": 3,
+      "chain_name": "十字蝌蚪→十字蛙→深渊蛙"
+    },
+    "卡波": {
+      "name": "卡波",
+      "display_name": "卡波",
+      "egg_groups": [
+        "妖精组"
+      ],
+      "region_form": "",
+      "name_pinyin": "kabo",
+      "rf_pinyin": "",
+      "chain_id": 520,
+      "chain_order": 1,
+      "chain_name": "卡波→卡拉波斯"
+    },
+    "卡拉波斯": {
+      "name": "卡拉波斯",
+      "display_name": "卡拉波斯",
+      "egg_groups": [
+        "妖精组"
+      ],
+      "region_form": "",
+      "name_pinyin": "kalabosi",
+      "rf_pinyin": "",
+      "chain_id": 520,
+      "chain_order": 2,
+      "chain_name": "卡波→卡拉波斯"
+    },
+    "守夜烛": {
+      "name": "守夜烛",
+      "display_name": "守夜烛",
+      "egg_groups": [
+        "妖精组"
+      ],
+      "region_form": "",
+      "name_pinyin": "shouyezhu",
+      "rf_pinyin": "",
+      "chain_id": 521,
+      "chain_order": 1,
+      "chain_name": "守夜烛→流明坎德拉"
+    },
+    "流明坎德拉": {
+      "name": "流明坎德拉",
+      "display_name": "流明坎德拉",
+      "egg_groups": [
+        "妖精组"
+      ],
+      "region_form": "",
+      "name_pinyin": "liumingkandela",
+      "rf_pinyin": "",
+      "chain_id": 521,
+      "chain_order": 2,
+      "chain_name": "守夜烛→流明坎德拉"
+    },
+    "蜜果骸": {
+      "name": "蜜果骸",
+      "display_name": "蜜果骸",
+      "egg_groups": [
+        "妖精组",
+        "植物组"
+      ],
+      "region_form": "",
+      "name_pinyin": "miguohai",
+      "rf_pinyin": "",
+      "chain_id": 522,
+      "chain_order": 1,
+      "chain_name": "蜜果骸→半朽蜜果灵"
+    },
+    "半朽蜜果灵": {
+      "name": "半朽蜜果灵",
+      "display_name": "半朽蜜果灵",
+      "egg_groups": [
+        "妖精组",
+        "植物组"
+      ],
+      "region_form": "",
+      "name_pinyin": "banxiumiguoling",
+      "rf_pinyin": "",
+      "chain_id": 522,
+      "chain_order": 2,
+      "chain_name": "蜜果骸→半朽蜜果灵"
+    },
+    "稻草人": {
+      "name": "稻草人",
+      "display_name": "稻草人",
+      "egg_groups": [
+        "妖精组"
+      ],
+      "region_form": "",
+      "name_pinyin": "daocaoren",
+      "rf_pinyin": "",
+      "chain_id": 523,
+      "chain_order": 1,
+      "chain_name": "稻草人→稻草守护者"
+    },
+    "稻草守护者": {
+      "name": "稻草守护者",
+      "display_name": "稻草守护者",
+      "egg_groups": [
+        "妖精组"
+      ],
+      "region_form": "",
+      "name_pinyin": "daocaoshouhuzhe",
+      "rf_pinyin": "",
+      "chain_id": 523,
+      "chain_order": 2,
+      "chain_name": "稻草人→稻草守护者"
+    },
+    "栗鼠": {
+      "name": "栗鼠",
+      "display_name": "栗鼠",
+      "egg_groups": [
+        "动物组"
+      ],
+      "region_form": "",
+      "name_pinyin": "lishu",
+      "rf_pinyin": "",
+      "chain_id": 524,
+      "chain_order": 1,
+      "chain_name": "栗鼠→壳栗丝鼠"
+    },
+    "壳栗丝鼠": {
+      "name": "壳栗丝鼠",
+      "display_name": "壳栗丝鼠",
+      "egg_groups": [
+        "动物组"
+      ],
+      "region_form": "",
+      "name_pinyin": "kelisishu",
+      "rf_pinyin": "",
+      "chain_id": 524,
+      "chain_order": 2,
+      "chain_name": "栗鼠→壳栗丝鼠"
+    },
+    "睡铃雪影娃娃": {
+      "name": "睡铃雪影娃娃",
+      "display_name": "睡铃雪影娃娃",
+      "egg_groups": [
+        "无法孵蛋"
+      ],
+      "region_form": "",
+      "name_pinyin": "shuilingxueyingwawa",
+      "rf_pinyin": "",
+      "chain_id": 528,
+      "chain_order": 1,
+      "chain_name": "睡铃雪影娃娃"
     }
   },
   "egg_groups": {
-    "两栖组": [],
-    "动物组": [],
-    "大地组": [],
-    "天空组": [],
-    "妖精组": [],
-    "巨灵组": [],
-    "拟人组": [],
-    "无法孵蛋": [],
-    "昆虫组": [],
-    "机械组": [],
-    "植物组": [],
-    "海洋组": [],
-    "软体组": [],
-    "魔力组": [],
-    "龙组": []
+    "动物组": [
+      "喵喵",
+      "魔力猫",
+      "恶魔狼",
+      "地鼠",
+      "遁鼠",
+      "遁地鼠",
+      "喵呜",
+      "锥尾羊",
+      "铃兰羊",
+      "花影羚羊",
+      "小独角兽",
+      "白金独角兽",
+      "忽幽狸",
+      "影狸",
+      "护主犬",
+      "音速犬",
+      "灵狐",
+      "九尾狐",
+      "尖嘴狐仙",
+      "治愈兔",
+      "红丝绒",
+      "呆小路",
+      "舞动路路",
+      "白发路路",
+      "绿耳松鼠",
+      "抱枕松鼠",
+      "蹦床松鼠",
+      "小狮鹫",
+      "神圣狮鹫",
+      "皇家狮鹫",
+      "裘洛",
+      "裘力",
+      "裘卡",
+      "春团",
+      "春兔",
+      "伏地兽",
+      "贪食鼹",
+      "巨噬针鼹",
+      "电咩咩",
+      "粉咩咩",
+      "电球咩咩",
+      "小星光",
+      "星光狮",
+      "海豹战士",
+      "海豹船长",
+      "古钟蛇",
+      "寒音蛇",
+      "小怂猫",
+      "怒目怂猫",
+      "奔波鼠",
+      "流浪鼠",
+      "呼呼猪",
+      "獠牙猪",
+      "小鼠獭",
+      "燕尾獭",
+      "卷胡巨獭",
+      "红绒十字",
+      "电动长颈鹿",
+      "奔乐鹿",
+      "爵士鹿",
+      "春花兔",
+      "逗逗",
+      "气球猫",
+      "梦想三三",
+      "月牙雪熊",
+      "小黑猫",
+      "黑猫巫师",
+      "松仔",
+      "松叶羊",
+      "针叶巡林",
+      "小勇狮",
+      "炽焰狮",
+      "炽心勇狮",
+      "优优",
+      "绒光优优",
+      "小鼓象",
+      "巨鼓象",
+      "猴麦仔",
+      "音碟吼",
+      "炫光迪迪",
+      "霹雳迪迪",
+      "火红尾",
+      "雅丹鬃",
+      "烈钻鸟",
+      "长尾火鸟",
+      "火羽",
+      "雪灵兽",
+      "幻雪兽",
+      "饮雪狂兽",
+      "点点",
+      "珀尔鼬",
+      "蝴蝶陶陶",
+      "铆钉毛毛",
+      "徘徊爪爪",
+      "栗鼠",
+      "壳栗丝鼠"
+    ],
+    "拟人组": [
+      "喵喵",
+      "魔力猫",
+      "喵呜",
+      "绿草精灵",
+      "魔草巫灵",
+      "白发懒人",
+      "忽幽狸",
+      "影狸",
+      "可爱猿",
+      "炽热猿",
+      "火焰猿",
+      "可立鸡",
+      "晕晕鸡",
+      "绅士鸡",
+      "武者鸡",
+      "呆小路",
+      "舞动路路",
+      "白发路路",
+      "动力猿",
+      "瞌睡王",
+      "大耳帽兜",
+      "帽兜娃娃",
+      "雪影娃娃",
+      "小草虫",
+      "草衣虫",
+      "花衣蝶",
+      "小夜",
+      "紫夜",
+      "朔夜伊芙",
+      "多多",
+      "多啦多",
+      "古啦多",
+      "雪豆丁",
+      "雪蛮人",
+      "雪巨人",
+      "机械方方",
+      "多彩方方",
+      "立方人",
+      "牵线木偶",
+      "帅帅魔偶",
+      "小怂猫",
+      "怒目怂猫",
+      "奔波鼠",
+      "流浪鼠",
+      "厉毒小萝",
+      "厉毒修萝",
+      "小丑豆豆",
+      "小丑兔",
+      "小丑公爵",
+      "森豆丁",
+      "森蛮人",
+      "森巨人",
+      "霹雳宝宝",
+      "雷鸣小子",
+      "雷神之子",
+      "火豆丁",
+      "火蛮人",
+      "火巨人",
+      "蝴蝶陶陶",
+      "铆钉毛毛",
+      "徘徊爪爪",
+      "苞米仔",
+      "炮米花",
+      "十字蝌蚪",
+      "十字蛙",
+      "深渊蛙"
+    ],
+    "魔力组": [
+      "水蓝蓝",
+      "火花",
+      "水灵",
+      "火神",
+      "焰火",
+      "波波拉",
+      "小灵面",
+      "暗影灵面",
+      "果冻",
+      "脆筒甜甜",
+      "香草甜甜",
+      "圣代甜甜",
+      "小灵菇",
+      "幻灵菇",
+      "幻影灵菇",
+      "空空颅",
+      "夜宿颅",
+      "夜枭",
+      "石石",
+      "巨灵石",
+      "闪电环",
+      "刺电环",
+      "荆棘电环",
+      "幽冥眼",
+      "梦游",
+      "梦悠悠",
+      "抹茶布丁",
+      "烟花团",
+      "烟花伯爵",
+      "星云旅者"
+    ],
+    "巨灵组": [
+      "火花",
+      "火神",
+      "阿米亚特",
+      "阿米樱",
+      "罗隐",
+      "焰火",
+      "白发懒人",
+      "小独角兽",
+      "白金独角兽",
+      "可爱猿",
+      "炽热猿",
+      "火焰猿",
+      "火尾瓦特",
+      "火尾战士",
+      "烈火守护",
+      "动力猿",
+      "瞌睡王",
+      "布是石",
+      "布是岩",
+      "布克棱岩",
+      "空空颅",
+      "夜宿颅",
+      "夜枭",
+      "雪豆丁",
+      "雪蛮人",
+      "雪巨人",
+      "矮脚爬爬",
+      "恶魔红钻",
+      "多西",
+      "库多西",
+      "波多西",
+      "大头骨龙",
+      "寂灭骨龙",
+      "海盔虫",
+      "刺盔虫",
+      "千棘盔",
+      "幽星光",
+      "曜星光",
+      "暮星辰",
+      "逗逗",
+      "气球猫",
+      "梦想三三",
+      "深蓝鲸",
+      "噼啪鸟",
+      "月牙雪熊",
+      "乌达",
+      "迷你乌",
+      "乌拉塔",
+      "圣剑侍从",
+      "圣剑-X",
+      "画精灵",
+      "画像守护",
+      "画间法师手",
+      "画间沉铁兽",
+      "书魔虫",
+      "书卷守护",
+      "古卷执政官",
+      "古卷匣魔像",
+      "森豆丁",
+      "森蛮人",
+      "森巨人",
+      "霹雳宝宝",
+      "雷鸣小子",
+      "雷神之子",
+      "火豆丁",
+      "火蛮人",
+      "火巨人",
+      "瑰眼仔",
+      "耳翎瑰魅",
+      "邪眼巨魔",
+      "觅觅蝠",
+      "翻翻蝠",
+      "夜游魔",
+      "芽眼魔",
+      "叶眼魔",
+      "障眼魔"
+    ],
+    "无法孵蛋": [
+      "迪莫",
+      "小帕尔",
+      "帕尔萨斯",
+      "龙息帕尔",
+      "绒绒",
+      "小绒茧",
+      "绒仙子",
+      "犀角鸟",
+      "光纤兽",
+      "疾光千兽",
+      "凡雀",
+      "紫翎鹰",
+      "凡鹰",
+      "里奥",
+      "灵羽勇士",
+      "圣羽翼王",
+      "小雪人",
+      "雪怪",
+      "爆焰仔",
+      "爆焰喷喷",
+      "学院呱呱",
+      "钨丝贝贝",
+      "辉光幕机",
+      "机幕方舟",
+      "加灵",
+      "加益",
+      "加尔",
+      "黑化加尔",
+      "咬咬小子",
+      "胡桃王子",
+      "足尖元件",
+      "离心舞者",
+      "睡铃雪影娃娃"
+    ],
+    "两栖组": [
+      "草头鸭",
+      "丢丢",
+      "卡卡虫",
+      "卡瓦重",
+      "板板壳",
+      "咔咔壳",
+      "水泡壳",
+      "卷毛鸭",
+      "锤头鹳",
+      "石肤蜥",
+      "石刺蜥",
+      "石冠王蜥",
+      "海豹战士",
+      "海豹船长",
+      "古钟蛇",
+      "寒音蛇",
+      "小鼠獭",
+      "燕尾獭",
+      "卷胡巨獭",
+      "乖乖鹄",
+      "蓝珠天鹅",
+      "翠顶夫人",
+      "布瓜蝌",
+      "上岸蛙",
+      "吸泥鸥",
+      "泥吼牙",
+      "花怨鳗",
+      "鳗尾兽",
+      "波波螺",
+      "消波螺",
+      "嗜波螺",
+      "黑羽夫人",
+      "水滴蛇",
+      "水蛇锁",
+      "游蛇魔使",
+      "加油海葵",
+      "加油蟹",
+      "十字蝌蚪",
+      "十字蛙",
+      "深渊蛙"
+    ],
+    "天空组": [
+      "草头鸭",
+      "鸭吉吉",
+      "铠甲虫",
+      "蒲公英娃娃",
+      "冬羽雀",
+      "蒲公英",
+      "岚鸟",
+      "小甲虫",
+      "一窝蜂",
+      "黄蜂后",
+      "卷毛鸭",
+      "锤头鹳",
+      "可立鸡",
+      "晕晕鸡",
+      "绅士鸡",
+      "武者鸡",
+      "风铃鲨",
+      "蓝蝶鲨",
+      "彩蝶鲨",
+      "小狮鹫",
+      "神圣狮鹫",
+      "皇家狮鹫",
+      "花魁蜂后",
+      "咔咔羽毛",
+      "咔咔雀",
+      "咔咔鸟",
+      "小翼龙",
+      "翼龙",
+      "小鹬",
+      "鄙目鹬",
+      "高脚鹬",
+      "绿翼鸟",
+      "魔翼鸟",
+      "魔眷鸟",
+      "雪绒鸟",
+      "粉星仔",
+      "粉耳星兔",
+      "乖乖鹄",
+      "蓝珠天鹅",
+      "翠顶夫人",
+      "厉毒小萝",
+      "厉毒修萝",
+      "小电企鹅",
+      "电企鹅",
+      "噼啪鸟",
+      "螺旋帕帕",
+      "落陨星兔",
+      "吸泥鸥",
+      "泥吼牙",
+      "公平鸽",
+      "斑斑",
+      "斑枭",
+      "帕帕斯卡",
+      "黑羽夫人",
+      "烈钻鸟",
+      "长尾火鸟",
+      "火羽",
+      "友爱天天",
+      "友爱星飞",
+      "觅觅蝠",
+      "翻翻蝠",
+      "夜游魔",
+      "不咕钟",
+      "溯源钟"
+    ],
+    "妖精组": [
+      "恶魔叮",
+      "绿草精灵",
+      "魔草巫灵",
+      "叮叮恶魔",
+      "幽影树",
+      "格兰种子",
+      "格兰花",
+      "格兰球",
+      "治愈兔",
+      "红丝绒",
+      "仪使者",
+      "仪式之星",
+      "仪式巨像",
+      "甜田螺",
+      "壳乙螺",
+      "卡洛儿",
+      "大耳帽兜",
+      "帽兜娃娃",
+      "雪影娃娃",
+      "小夜",
+      "紫夜",
+      "朔夜伊芙",
+      "裘洛",
+      "裘力",
+      "裘卡",
+      "春团",
+      "春兔",
+      "拉特",
+      "酷拉",
+      "粉粉星",
+      "小皮球",
+      "牵线木偶",
+      "帅帅魔偶",
+      "绿翼鸟",
+      "魔翼鸟",
+      "魔眷鸟",
+      "粉星仔",
+      "粉耳星兔",
+      "雪娃娃",
+      "冰封怨灵",
+      "雪灵",
+      "红绒十字",
+      "嘟嘟煲",
+      "嘟嘟锅",
+      "幽星光",
+      "曜星光",
+      "暮星辰",
+      "春花兔",
+      "梦游",
+      "梦悠悠",
+      "落陨星兔",
+      "小丑豆豆",
+      "小丑兔",
+      "小丑公爵",
+      "里拉鳐",
+      "号儿鱼",
+      "圆号鱼",
+      "棋棋",
+      "棋骑士",
+      "棋绮后",
+      "棋齐垒",
+      "棋祈督",
+      "小黑猫",
+      "黑猫巫师",
+      "水滴蛇",
+      "水蛇锁",
+      "游蛇魔使",
+      "毛头小蛛",
+      "捕尘长绒",
+      "食尘短绒",
+      "画精灵",
+      "画像守护",
+      "画间法师手",
+      "画间沉铁兽",
+      "书魔虫",
+      "书卷守护",
+      "古卷执政官",
+      "古卷匣魔像",
+      "小箱怪",
+      "迷迷箱怪",
+      "加油海葵",
+      "加油蟹",
+      "咕咕帽",
+      "咕德帽帽",
+      "友爱天天",
+      "友爱星飞",
+      "莫比乌乌",
+      "芽眼魔",
+      "叶眼魔",
+      "障眼魔",
+      "星云旅者",
+      "点点",
+      "珀尔鼬",
+      "卡波",
+      "卡拉波斯",
+      "守夜烛",
+      "流明坎德拉",
+      "蜜果骸",
+      "半朽蜜果灵",
+      "稻草人",
+      "稻草守护者"
+    ],
+    "昆虫组": [
+      "铠甲虫",
+      "小甲虫",
+      "一窝蜂",
+      "黄蜂后",
+      "圆眼蜘蛛",
+      "尖角蜘蛛",
+      "芋香巨角蛛",
+      "毛毛",
+      "爬爬",
+      "化蝶",
+      "小草虫",
+      "草衣虫",
+      "花衣蝶",
+      "花魁蜂后",
+      "矮脚爬爬",
+      "恶魔红钻",
+      "旋叶虫",
+      "风滚暮虫",
+      "星尘虫",
+      "落星虫",
+      "陨星虫",
+      "柴渣虫",
+      "燃薪虫",
+      "蓬叶虫",
+      "毛头小蛛",
+      "捕尘长绒",
+      "食尘短绒",
+      "嗜光嗡嗡",
+      "窃光蚊",
+      "叮叮卯",
+      "飞飞钥",
+      "碎晶蝎",
+      "晶尾蝎",
+      "蝎子王",
+      "瑰眼仔",
+      "耳翎瑰魅",
+      "邪眼巨魔"
+    ],
+    "大地组": [
+      "阿米亚特",
+      "阿米樱",
+      "罗隐",
+      "记忆石",
+      "布是石",
+      "布是岩",
+      "布克棱岩",
+      "石肤蜥",
+      "石刺蜥",
+      "石冠王蜥",
+      "仪使者",
+      "仪式之星",
+      "仪式巨像",
+      "石石",
+      "巨灵石",
+      "矿晶虫",
+      "晶石蜗",
+      "嘟嘟煲",
+      "嘟嘟锅",
+      "波波螺",
+      "消波螺",
+      "嗜波螺",
+      "炫光迪迪",
+      "霹雳迪迪",
+      "碎晶蝎",
+      "晶尾蝎",
+      "蝎子王"
+    ],
+    "植物组": [
+      "蹦蹦种子",
+      "蹦蹦草",
+      "蹦蹦花",
+      "蒲公英娃娃",
+      "奇丽草",
+      "奇丽叶",
+      "奇丽花",
+      "蒲公英",
+      "伊贝儿",
+      "伊贝粉粉",
+      "幽影树",
+      "格兰种子",
+      "格兰花",
+      "格兰球",
+      "小灵菇",
+      "幻灵菇",
+      "幻影灵菇",
+      "菊花梨",
+      "哭哭菇",
+      "怖须菇",
+      "怖哭菇",
+      "旋叶虫",
+      "风滚暮虫",
+      "菇菇丁",
+      "多菇丁",
+      "九幽菇",
+      "海枝枝",
+      "柴渣虫",
+      "燃薪虫",
+      "蓬叶虫",
+      "兽花蕾",
+      "苞米仔",
+      "炮米花",
+      "蜜果骸",
+      "半朽蜜果灵"
+    ],
+    "软体组": [
+      "伊贝儿",
+      "伊贝粉粉",
+      "甜田螺",
+      "壳乙螺",
+      "卡洛儿",
+      "翡翠水母",
+      "琉璃水母",
+      "脆筒甜甜",
+      "香草甜甜",
+      "圣代甜甜",
+      "毛毛",
+      "爬爬",
+      "化蝶",
+      "粉粉星",
+      "小皮球",
+      "布鲁斯",
+      "雪顶布鲁斯",
+      "冰钻布鲁斯",
+      "矿晶虫",
+      "晶石蜗",
+      "墨鱿士",
+      "混乱鱿彩",
+      "秩序鱿墨"
+    ],
+    "海洋组": [
+      "风铃鲨",
+      "蓝蝶鲨",
+      "彩蝶鲨",
+      "果冻",
+      "翡翠水母",
+      "琉璃水母",
+      "布鲁斯",
+      "雪顶布鲁斯",
+      "冰钻布鲁斯",
+      "胆小鳗鱼",
+      "闪电鳗鱼",
+      "海盔虫",
+      "刺盔虫",
+      "千棘盔",
+      "深蓝鲸",
+      "双灯鱼",
+      "利灯鱼",
+      "豆丁鱼",
+      "快鳍鱼",
+      "龙鱼",
+      "海枝枝",
+      "花怨鳗",
+      "鳗尾兽",
+      "里拉鳐",
+      "抹茶布丁",
+      "椰浆布丁",
+      "熔岩布丁",
+      "号儿鱼",
+      "圆号鱼",
+      "墨鱿士",
+      "混乱鱿彩",
+      "秩序鱿墨",
+      "刺轮砣",
+      "月亮砣"
+    ],
+    "机械组": [
+      "机械方方",
+      "多彩方方",
+      "立方人",
+      "贝瑟",
+      "贝加尔",
+      "贝古斯",
+      "多西",
+      "库多西",
+      "波多西",
+      "缇塔",
+      "声波缇塔",
+      "权杖-Ⅱ",
+      "权杖-V",
+      "螺旋帕帕",
+      "圣剑侍从",
+      "圣剑-X",
+      "帕帕斯卡",
+      "小箱怪",
+      "迷迷箱怪",
+      "烟花团",
+      "烟花伯爵",
+      "小鼓象",
+      "巨鼓象",
+      "猴麦仔",
+      "音碟吼",
+      "叮叮卯",
+      "飞飞钥",
+      "不咕钟",
+      "溯源钟"
+    ],
+    "龙组": [
+      "小翼龙",
+      "翼龙",
+      "伊雷龙",
+      "大头骨龙",
+      "寂灭骨龙",
+      "豆丁鱼",
+      "快鳍鱼",
+      "龙鱼",
+      "伊兰亚龙",
+      "克莱因龙",
+      "莫比乌乌"
+    ]
   },
   "spirit_names": [
-    "迪莫",
-    "喵喵",
-    "喵呜",
-    "魔力猫",
-    "火花",
-    "焰火",
-    "火神",
-    "水蓝蓝",
-    "波波拉",
-    "水灵",
-    "鸭吉吉",
-    "板板壳",
-    "咔咔壳",
-    "水泡壳",
-    "锥尾羊",
-    "铃兰羊",
-    "花影羚羊",
-    "雪绒鸟",
-    "冬羽雀",
-    "岚鸟",
-    "小灵菇",
-    "幻灵菇",
-    "幻影灵菇",
-    "石肤蜥",
-    "石刺蜥",
-    "石冠王蜥",
-    "布是石",
-    "布是岩",
-    "布克棱岩",
-    "恶魔叮",
-    "叮叮恶魔",
-    "毛毛",
-    "爬爬",
-    "化蝶",
-    "幽影树",
-    "小鼠獭",
-    "燕尾獭",
-    "卷胡巨獭",
-    "矿晶虫",
-    "晶石蜗",
-    "奇丽草",
-    "奇丽叶",
-    "奇丽花",
-    "丢丢",
-    "卡卡虫",
-    "卡瓦重",
-    "护主犬",
-    "音速犬",
-    "绿耳松鼠",
-    "抱枕松鼠",
-    "蹦床松鼠",
-    "嘟嘟煲",
-    "嘟嘟锅",
-    "小灵面",
-    "暗影灵面",
-    "幽冥眼",
-    "梦游",
-    "梦悠悠",
-    "兽花蕾",
-    "伏地兽",
-    "贪食鼹",
-    "巨噬针鼹",
-    "蹦蹦种子",
-    "蹦蹦草",
-    "蹦蹦花",
-    "电咩咩",
-    "粉咩咩",
-    "电球咩咩",
-    "蒲公英",
-    "蒲公英娃娃",
-    "伊贝儿",
-    "伊贝粉粉",
-    "白发懒人",
-    "动力猿",
-    "瞌睡王",
-    "海盔虫",
-    "刺盔虫",
-    "千棘盔",
-    "菊花梨",
-    "小星光",
-    "星光狮",
     "一窝蜂",
-    "黄蜂后",
-    "花魁蜂后",
-    "小夜",
-    "紫夜",
-    "朔夜伊芙",
+    "上岸蛙",
+    "不咕钟",
+    "丢丢",
+    "乌拉塔",
+    "乌达",
     "乖乖鹄",
-    "蓝珠天鹅",
-    "翠顶夫人",
-    "黑羽夫人",
-    "锤头鹳",
-    "绿草精灵",
-    "魔草巫灵",
-    "记忆石",
-    "咔咔羽毛",
-    "咔咔雀",
-    "咔咔鸟",
-    "小草虫",
-    "草衣虫",
-    "花衣蝶",
-    "绿翼鸟",
-    "魔翼鸟",
-    "魔眷鸟",
-    "阿米亚特",
-    "阿米樱",
-    "罗隐",
-    "风铃鲨",
-    "蓝蝶鲨",
-    "彩蝶鲨",
-    "石石",
-    "巨灵石",
+    "九尾狐",
+    "九幽菇",
+    "书卷守护",
+    "书魔虫",
     "仪使者",
     "仪式之星",
     "仪式巨像",
-    "小独角兽",
-    "白金独角兽",
-    "旋叶虫",
-    "蓬叶虫",
-    "风滚暮虫",
-    "小黑猫",
-    "黑猫巫师",
-    "忽幽狸",
-    "影狸",
-    "多多",
-    "多啦多",
-    "古啦多",
-    "哭哭菇",
-    "怖须菇",
-    "怖哭菇",
-    "恶魔狼",
-    "小电企鹅",
-    "电企鹅",
-    "雪豆丁",
-    "雪蛮人",
-    "雪巨人",
-    "呼呼猪",
-    "獠牙猪",
-    "雪娃娃",
-    "冰封怨灵",
-    "雪灵",
-    "大耳帽兜",
-    "帽兜娃娃",
-    "雪影娃娃",
-    "权杖-Ⅱ",
-    "权杖-Ⅴ",
-    "灵狐",
-    "九尾狐",
-    "尖嘴狐仙",
-    "里奥",
-    "灵羽勇士",
-    "圣羽翼王",
-    "松仔",
-    "松叶羊",
-    "针叶巡林",
-    "小勇狮",
-    "炽焰狮",
-    "炽心勇狮",
-    "水滴蛇",
-    "水蛇锁",
-    "游蛇魔使",
-    "公平鸽",
-    "小怂猫",
-    "怒目怂猫",
-    "小狮鹫",
-    "神圣狮鹫",
-    "皇家狮鹫",
-    "圆眼蜘蛛",
-    "尖角蜘蛛",
-    "芋香巨角蛛",
-    "波波螺",
-    "消波螺",
-    "嗜波螺",
-    "菇菇丁",
-    "多菇丁",
-    "九幽菇",
-    "斑斑",
-    "斑枭",
-    "草头鸭",
-    "卷毛鸭",
-    "海豹战士",
-    "海豹船长",
-    "号儿鱼",
-    "圆号鱼",
-    "甜田螺",
-    "壳乙螺",
-    "卡洛儿",
-    "棋棋",
-    "棋骑士",
-    "棋齐垒",
-    "棋祈督",
-    "棋绮后",
-    "奔波鼠",
-    "流浪鼠",
-    "呆小路",
-    "舞动路路",
-    "白发路路",
-    "逗逗",
-    "气球猫",
-    "梦想三三",
-    "花怨鳗",
-    "鳗尾兽",
-    "伊雷龙",
     "伊兰亚龙",
-    "拉特",
-    "酷拉",
-    "闪电环",
-    "刺电环",
-    "荆棘电环",
-    "小箱怪",
-    "迷迷箱怪",
-    "古钟蛇",
-    "寒音蛇",
-    "矮脚爬爬",
-    "恶魔红钻",
-    "火尾瓦特",
-    "火尾战士",
-    "烈火守护",
-    "里拉鳐",
-    "海枝枝",
-    "多西",
-    "库多西",
-    "波多西",
-    "小翼龙",
-    "翼龙",
-    "电动长颈鹿",
-    "奔乐鹿",
-    "爵士鹿",
-    "缇塔",
-    "声波缇塔",
-    "小鹬",
-    "鄙目鹬",
-    "高脚鹬",
-    "脆筒甜甜",
-    "香草甜甜",
-    "圣代甜甜",
-    "刺轮砣",
-    "月亮砣",
-    "豆丁鱼",
-    "快鳍鱼",
-    "龙鱼",
-    "胆小鳗鱼",
-    "闪电鳗鱼",
-    "翡翠水母",
-    "琉璃水母",
-    "裘洛",
-    "裘力",
-    "裘卡",
-    "可爱猿",
-    "炽热猿",
-    "火焰猿",
-    "布鲁斯",
-    "雪顶布鲁斯",
-    "冰钻布鲁斯",
-    "治愈兔",
-    "红丝绒",
-    "红绒十字",
-    "乌达",
-    "迷你乌",
-    "乌拉塔",
-    "螺旋帕帕",
-    "帕帕斯卡",
-    "机械方方",
-    "多彩方方",
-    "立方人",
-    "可立鸡",
-    "晕晕鸡",
-    "绅士鸡",
-    "武者鸡",
+    "伊贝儿",
+    "伊贝粉粉",
+    "伊雷龙",
+    "伏地兽",
     "优优",
-    "绒光优优",
-    "噼啪鸟",
-    "深蓝鲸",
-    "格兰种子",
-    "格兰花",
-    "格兰球",
-    "地鼠(枯水)",
-    "遁鼠(枯水)",
-    "遁地鼠(枯水)",
-    "地鼠(储水)",
-    "遁鼠(储水)",
-    "遁地鼠(储水)",
-    "墨鱿士",
-    "混乱鱿彩",
-    "秩序鱿墨",
-    "小甲虫",
-    "铠甲虫",
-    "圣剑侍从",
-    "圣剑-X",
-    "吸泥鸥",
-    "泥吼牙",
-    "大头骨龙",
-    "寂灭骨龙",
-    "厉毒小萝",
-    "厉毒修萝",
-    "小帕尔",
-    "帕尔萨斯",
-    "龙息帕尔",
-    "毛头小蛛",
-    "捕尘长绒",
-    "食尘短绒",
-    "画精灵",
-    "画像守护",
-    "画间法师手",
-    "画间沉铁兽",
-    "书魔虫",
-    "书卷守护",
-    "古卷执政官",
-    "古卷匣魔像",
-    "绒绒",
-    "小绒茧",
-    "绒仙子",
-    "犀角鸟",
     "光纤兽",
-    "疾光千兽",
-    "果冻",
-    "抹茶布丁",
-    "椰浆布丁",
-    "熔岩布丁",
-    "星尘虫",
-    "落星虫",
-    "陨星虫",
-    "双灯鱼",
-    "利灯鱼",
-    "月牙雪熊",
-    "嗜光嗡嗡",
-    "窃光蚊",
-    "柴渣虫",
-    "燃薪虫",
-    "空空颅",
-    "夜宿颅",
-    "夜枭",
-    "粉粉星",
-    "小皮球",
-    "贝瑟",
-    "贝加尔",
-    "贝古斯",
-    "粉星仔",
-    "粉耳星兔",
-    "落陨星兔",
-    "布瓜蝌",
-    "上岸蛙",
-    "火红尾",
-    "雅丹鬃",
-    "春团",
-    "春兔",
-    "春花兔",
-    "幽星光",
-    "曜星光",
-    "暮星辰",
-    "钨丝贝贝",
-    "辉光幕机",
-    "机幕方舟",
+    "克莱因龙",
+    "公平鸽",
+    "兽花蕾",
+    "冬羽雀",
+    "冰封怨灵",
+    "冰钻布鲁斯",
     "凡雀",
-    "紫翎鹰",
     "凡鹰",
-    "小雪人",
-    "雪怪",
-    "爆焰仔",
-    "爆焰喷喷",
-    "猴麦仔",
-    "音碟吼",
+    "利灯鱼",
+    "刺电环",
+    "刺盔虫",
+    "刺轮砣",
+    "加尔",
     "加油海葵",
     "加油蟹(单手)",
     "加油蟹(双手)",
-    "小丑豆豆",
-    "小丑兔",
-    "小丑公爵",
-    "烟花团",
-    "烟花伯爵",
+    "加灵",
+    "加益",
+    "动力猿",
+    "化蝶",
+    "十字蛙",
+    "十字蝌蚪",
+    "千棘盔",
+    "半朽蜜果灵",
+    "卡卡虫",
+    "卡拉波斯",
+    "卡波",
+    "卡洛儿",
+    "卡瓦重",
+    "卷毛鸭",
+    "卷胡巨獭",
+    "厉毒修萝",
+    "厉毒小萝",
+    "友爱天天",
+    "友爱星飞",
+    "双灯鱼",
+    "古卷匣魔像",
+    "古卷执政官",
+    "古啦多",
+    "古钟蛇",
+    "叮叮卯",
+    "叮叮恶魔",
+    "可爱猿",
+    "可立鸡",
+    "叶眼魔",
+    "号儿鱼",
+    "吸泥鸥",
+    "呆小路",
+    "呼呼猪",
+    "咔咔壳",
+    "咔咔羽毛",
+    "咔咔雀",
+    "咔咔鸟",
     "咕咕帽",
     "咕德帽帽",
-    "炫光迪迪",
-    "霹雳迪迪",
+    "咬咬小子",
+    "哭哭菇",
+    "喵呜",
+    "喵喵",
+    "嗜光嗡嗡",
+    "嗜波螺",
+    "嘟嘟煲",
+    "嘟嘟锅",
+    "噼啪鸟",
+    "圆号鱼",
+    "圆眼蜘蛛",
+    "圣代甜甜",
+    "圣剑-X",
+    "圣剑侍从",
+    "圣羽翼王",
+    "地鼠(储水)",
+    "地鼠(枯水)",
+    "墨鱿士",
+    "声波缇塔",
+    "壳乙螺",
+    "壳栗丝鼠",
+    "多啦多",
+    "多多",
+    "多彩方方",
+    "多菇丁",
+    "多西",
+    "夜宿颅",
+    "夜枭",
+    "夜游魔",
+    "大头骨龙",
+    "大耳帽兜",
+    "奇丽叶",
+    "奇丽花",
+    "奇丽草",
+    "奔乐鹿",
+    "奔波鼠",
+    "学院呱呱",
+    "守夜烛",
+    "寂灭骨龙",
+    "寒音蛇",
+    "小丑兔",
+    "小丑公爵",
+    "小丑豆豆",
+    "小勇狮",
+    "小夜",
+    "小帕尔",
+    "小怂猫",
+    "小星光",
+    "小灵菇",
+    "小灵面",
+    "小独角兽",
+    "小狮鹫",
+    "小甲虫",
+    "小电企鹅",
+    "小皮球",
+    "小箱怪",
+    "小绒茧",
+    "小翼龙",
+    "小草虫",
+    "小雪人",
+    "小鹬",
+    "小黑猫",
     "小鼓象",
+    "小鼠獭",
+    "尖嘴狐仙",
+    "尖角蜘蛛",
+    "岚鸟",
+    "巨噬针鼹",
+    "巨灵石",
     "巨鼓象",
-    "牵线木偶",
+    "布克棱岩",
+    "布是岩",
+    "布是石",
+    "布瓜蝌",
+    "布鲁斯",
     "帅帅魔偶",
-    "学院呱呱"
+    "帕尔萨斯",
+    "帕帕斯卡",
+    "帽兜娃娃",
+    "幻影灵菇",
+    "幻灵菇",
+    "幻雪兽",
+    "幽冥眼",
+    "幽影树",
+    "幽星光",
+    "库多西",
+    "彩蝶鲨",
+    "影狸",
+    "徘徊爪爪",
+    "快鳍鱼",
+    "忽幽狸",
+    "怒目怂猫",
+    "怖哭菇",
+    "怖须菇",
+    "恶魔叮",
+    "恶魔狼",
+    "恶魔红钻",
+    "护主犬",
+    "抱枕松鼠",
+    "抹茶布丁",
+    "拉特",
+    "捕尘长绒",
+    "斑斑",
+    "斑枭",
+    "旋叶虫",
+    "星云旅者",
+    "星光狮",
+    "星尘虫",
+    "春兔",
+    "春团",
+    "春花兔",
+    "晕晕鸡",
+    "晶尾蝎",
+    "晶石蜗",
+    "暗影灵面",
+    "暮星辰",
+    "曜星光",
+    "月亮砣",
+    "月牙雪熊",
+    "朔夜伊芙",
+    "机幕方舟",
+    "机械方方",
+    "权杖-Ⅱ",
+    "权杖-Ⅴ",
+    "松仔",
+    "松叶羊",
+    "板板壳",
+    "果冻",
+    "柴渣虫",
+    "栗鼠",
+    "格兰球",
+    "格兰种子",
+    "格兰花",
+    "梦悠悠",
+    "梦想三三",
+    "梦游",
+    "棋棋",
+    "棋祈督",
+    "棋绮后",
+    "棋骑士",
+    "棋齐垒",
+    "森巨人",
+    "森蛮人",
+    "森豆丁",
+    "椰浆布丁",
+    "武者鸡",
+    "毛头小蛛",
+    "毛毛",
+    "气球猫",
+    "水泡壳",
+    "水滴蛇",
+    "水灵",
+    "水蓝蓝",
+    "水蛇锁",
+    "治愈兔",
+    "波多西",
+    "波波拉",
+    "波波螺",
+    "泥吼牙",
+    "流明坎德拉",
+    "流浪鼠",
+    "海枝枝",
+    "海盔虫",
+    "海豹战士",
+    "海豹船长",
+    "消波螺",
+    "深渊蛙",
+    "深蓝鲸",
+    "混乱鱿彩",
+    "游蛇魔使",
+    "溯源钟",
+    "火尾战士",
+    "火尾瓦特",
+    "火巨人",
+    "火焰猿",
+    "火神",
+    "火红尾",
+    "火羽",
+    "火花",
+    "火蛮人",
+    "火豆丁",
+    "灵狐",
+    "灵羽勇士",
+    "炫光迪迪",
+    "炮米花",
+    "点点",
+    "炽心勇狮",
+    "炽热猿",
+    "炽焰狮",
+    "烈火守护",
+    "烈钻鸟",
+    "烟花伯爵",
+    "烟花团",
+    "焰火",
+    "熔岩布丁",
+    "燃薪虫",
+    "燕尾獭",
+    "爆焰仔",
+    "爆焰喷喷",
+    "爬爬",
+    "爵士鹿",
+    "牵线木偶",
+    "犀角鸟",
+    "猴麦仔",
+    "獠牙猪",
+    "珀尔鼬",
+    "琉璃水母",
+    "瑰眼仔",
+    "甜田螺",
+    "电企鹅",
+    "电动长颈鹿",
+    "电咩咩",
+    "电球咩咩",
+    "画像守护",
+    "画精灵",
+    "画间沉铁兽",
+    "画间法师手",
+    "疾光千兽",
+    "白发懒人",
+    "白发路路",
+    "白金独角兽",
+    "皇家狮鹫",
+    "睡铃雪影娃娃",
+    "瞌睡王",
+    "矮脚爬爬",
+    "石冠王蜥",
+    "石刺蜥",
+    "石石",
+    "石肤蜥",
+    "矿晶虫",
+    "碎晶蝎",
+    "神圣狮鹫",
+    "离心舞者",
+    "秩序鱿墨",
+    "稻草人",
+    "稻草守护者",
+    "空空颅",
+    "窃光蚊",
+    "立方人",
+    "粉咩咩",
+    "粉星仔",
+    "粉粉星",
+    "粉耳星兔",
+    "紫夜",
+    "紫翎鹰",
+    "红丝绒",
+    "红绒十字",
+    "绅士鸡",
+    "绒仙子",
+    "绒光优优",
+    "绒绒",
+    "绿翼鸟",
+    "绿耳松鼠",
+    "绿草精灵",
+    "缇塔",
+    "罗隐",
+    "翠顶夫人",
+    "翡翠水母",
+    "翻翻蝠",
+    "翼龙",
+    "耳翎瑰魅",
+    "胆小鳗鱼",
+    "胡桃王子",
+    "脆筒甜甜",
+    "舞动路路",
+    "芋香巨角蛛",
+    "花影羚羊",
+    "花怨鳗",
+    "花衣蝶",
+    "花魁蜂后",
+    "芽眼魔",
+    "苞米仔",
+    "荆棘电环",
+    "草头鸭",
+    "草衣虫",
+    "莫比乌乌",
+    "菇菇丁",
+    "菊花梨",
+    "落星虫",
+    "落陨星兔",
+    "蒲公英",
+    "蒲公英娃娃",
+    "蓝珠天鹅",
+    "蓝蝶鲨",
+    "蓬叶虫",
+    "蜜果骸",
+    "蝎子王",
+    "蝴蝶陶陶",
+    "螺旋帕帕",
+    "裘力",
+    "裘卡",
+    "裘洛",
+    "觅觅蝠",
+    "记忆石",
+    "豆丁鱼",
+    "贝加尔",
+    "贝古斯",
+    "贝瑟",
+    "贪食鼹",
+    "足尖元件",
+    "蹦床松鼠",
+    "蹦蹦种子",
+    "蹦蹦花",
+    "蹦蹦草",
+    "辉光幕机",
+    "迪莫",
+    "迷你乌",
+    "迷迷箱怪",
+    "逗逗",
+    "遁地鼠(储水)",
+    "遁地鼠(枯水)",
+    "遁鼠(储水)",
+    "遁鼠(枯水)",
+    "邪眼巨魔",
+    "鄙目鹬",
+    "酷拉",
+    "里奥",
+    "里拉鳐",
+    "针叶巡林",
+    "钨丝贝贝",
+    "铃兰羊",
+    "铆钉毛毛",
+    "铠甲虫",
+    "锤头鹳",
+    "锥尾羊",
+    "长尾火鸟",
+    "闪电环",
+    "闪电鳗鱼",
+    "阿米亚特",
+    "阿米樱",
+    "陨星虫",
+    "障眼魔",
+    "雅丹鬃",
+    "雪娃娃",
+    "雪巨人",
+    "雪影娃娃",
+    "雪怪",
+    "雪灵",
+    "雪灵兽",
+    "雪绒鸟",
+    "雪蛮人",
+    "雪豆丁",
+    "雪顶布鲁斯",
+    "雷神之子",
+    "雷鸣小子",
+    "霹雳宝宝",
+    "霹雳迪迪",
+    "音碟吼",
+    "音速犬",
+    "风滚暮虫",
+    "风铃鲨",
+    "飞飞钥",
+    "食尘短绒",
+    "饮雪狂兽",
+    "香草甜甜",
+    "高脚鹬",
+    "魔力猫",
+    "魔眷鸟",
+    "魔翼鸟",
+    "魔草巫灵",
+    "鳗尾兽",
+    "鸭吉吉",
+    "黄蜂后",
+    "黑化加尔",
+    "黑猫巫师",
+    "黑羽夫人",
+    "龙息帕尔",
+    "龙鱼"
   ],
   "pinyin_map": {
-    "迪": "di",
-    "莫": "mo",
-    "喵": "miao",
-    "呜": "wu",
-    "魔": "mo",
-    "力": "li",
-    "猫": "mao",
-    "火": "huo",
-    "花": "hua",
-    "焰": "yan",
-    "神": "shen",
-    "水": "shui",
-    "蓝": "lan",
-    "波": "bo",
-    "拉": "la",
-    "灵": "ling",
-    "鸭": "ya",
-    "吉": "ji",
-    "蓬": "peng",
-    "松": "song",
-    "的": "de",
-    "样": "yang",
-    "子": "zi",
-    "紧": "jin",
-    "实": "shi",
-    "急": "ji",
-    "等": "deng",
-    "一": "yi",
-    "起": "qi",
-    "来": "lai",
-    "燃": "ran",
-    "了": "le",
-    "板": "ban",
-    "壳": "ke",
-    "咔": "ka",
-    "泡": "pao",
-    "锥": "zhui",
-    "尾": "wei",
-    "羊": "yang",
-    "铃": "ling",
-    "兰": "lan",
-    "影": "ying",
-    "羚": "ling",
-    "雪": "xue",
-    "绒": "rong",
-    "鸟": "niao",
-    "冬": "dong",
-    "羽": "yu",
-    "雀": "que",
-    "岚": "lan",
-    "小": "xiao",
-    "菇": "gu",
-    "幻": "huan",
-    "石": "shi",
-    "肤": "fu",
-    "蜥": "xi",
-    "刺": "ci",
-    "冠": "guan",
-    "王": "wang",
-    "布": "bu",
-    "是": "shi",
-    "岩": "yan",
-    "克": "ke",
-    "棱": "leng",
-    "恶": "e",
-    "叮": "ding",
-    "毛": "mao",
-    "爬": "pa",
-    "化": "hua",
-    "蝶": "die",
-    "幽": "you",
-    "树": "shu",
-    "鼠": "shu",
-    "獭": "ta",
-    "燕": "yan",
-    "卷": "juan",
-    "胡": "hu",
-    "巨": "ju",
-    "矿": "kuang",
-    "晶": "jing",
-    "虫": "chong",
-    "蜗": "wo",
-    "奇": "qi",
-    "丽": "li",
-    "草": "cao",
-    "叶": "ye",
-    "丢": "diu",
-    "卡": "ka",
-    "瓦": "wa",
-    "重": "zhong",
-    "护": "hu",
-    "主": "zhu",
-    "犬": "quan",
-    "音": "yin",
-    "速": "su",
-    "绿": "lv",
-    "耳": "er",
-    "抱": "bao",
-    "枕": "zhen",
-    "蹦": "beng",
-    "床": "chuang",
-    "嘟": "du",
-    "煲": "bao",
-    "锅": "guo",
-    "面": "mian",
-    "暗": "an",
-    "冥": "ming",
-    "眼": "yan",
-    "梦": "meng",
-    "游": "you",
-    "悠": "you",
-    "兽": "shou",
-    "蕾": "lei",
-    "伏": "fu",
-    "地": "di",
-    "贪": "tan",
-    "食": "shi",
-    "鼹": "yan",
-    "噬": "shi",
-    "针": "zhen",
-    "种": "zhong",
-    "电": "dian",
-    "咩": "mie",
-    "粉": "fen",
-    "球": "qiu",
-    "蒲": "pu",
-    "公": "gong",
-    "英": "ying",
-    "娃": "wa",
-    "伊": "yi",
-    "贝": "bei",
-    "儿": "er",
-    "白": "bai",
-    "发": "fa",
-    "懒": "lan",
-    "人": "ren",
-    "动": "dong",
-    "猿": "yuan",
-    "瞌": "ke",
-    "睡": "shui",
-    "海": "hai",
-    "盔": "kui",
-    "千": "qian",
-    "棘": "ji",
-    "菊": "ju",
-    "梨": "li",
-    "星": "xing",
-    "光": "guang",
-    "狮": "shi",
-    "窝": "wo",
-    "蜂": "feng",
-    "黄": "huang",
-    "后": "hou",
-    "魁": "kui",
-    "夜": "ye",
-    "紫": "zi",
-    "朔": "shuo",
-    "芙": "fu",
-    "乖": "guai",
-    "鹄": "gu",
-    "珠": "zhu",
-    "天": "tian",
-    "鹅": "e",
-    "翠": "cui",
-    "顶": "ding",
-    "夫": "fu",
-    "黑": "hei",
-    "锤": "chui",
-    "头": "tou",
-    "鹳": "guan",
-    "精": "jing",
-    "巫": "wu",
-    "记": "ji",
-    "忆": "yi",
-    "衣": "yi",
-    "翼": "yi",
-    "眷": "juan",
+    "一": "y",
+    "窝": "i",
+    "蜂": "w",
+    "上": "s",
+    "岸": "h",
+    "蛙": "a",
+    "不": "b",
+    "咕": "u",
+    "钟": "g",
+    "丢": "d",
+    "乌": "w",
+    "拉": "u",
+    "塔": "l",
+    "达": "u",
+    "乖": "g",
+    "鹄": "a",
+    "九": "j",
+    "尾": "i",
+    "狐": "u",
+    "幽": "i",
+    "菇": "u",
+    "书": "s",
+    "卷": "h",
+    "守": "u",
+    "护": "j",
+    "魔": "h",
+    "虫": "u",
+    "仪": "y",
+    "使": "i",
+    "者": "s",
+    "式": "i",
+    "之": "s",
+    "星": "h",
+    "巨": "s",
+    "像": "h",
+    "伊": "y",
+    "兰": "i",
+    "亚": "l",
+    "龙": "a",
+    "贝": "i",
+    "儿": "b",
+    "粉": "b",
+    "雷": "i",
+    "伏": "f",
+    "地": "u",
+    "兽": "d",
+    "优": "y",
+    "光": "g",
+    "纤": "u",
+    "克": "k",
+    "莱": "e",
+    "因": "l",
+    "公": "g",
+    "平": "o",
+    "鸽": "n",
+    "花": "h",
+    "蕾": "o",
+    "冬": "d",
+    "羽": "o",
+    "雀": "n",
+    "冰": "b",
+    "封": "i",
+    "怨": "n",
+    "灵": "g",
+    "钻": "i",
+    "布": "n",
+    "鲁": "g",
+    "斯": "z",
+    "凡": "f",
+    "鹰": "a",
+    "利": "l",
+    "灯": "i",
+    "鱼": "d",
+    "刺": "c",
+    "电": "i",
+    "环": "d",
+    "盔": "i",
+    "轮": "i",
+    "砣": "l",
+    "加": "j",
+    "尔": "i",
+    "油": "i",
+    "海": "a",
+    "葵": "y",
+    "蟹": "a",
+    "单": "o",
+    "手": "u",
+    "双": "o",
+    "益": "i",
+    "动": "d",
+    "力": "o",
+    "猿": "n",
+    "化": "h",
+    "蝶": "u",
+    "十": "s",
+    "字": "h",
+    "蝌": "i",
+    "蚪": "z",
+    "千": "q",
+    "棘": "i",
+    "半": "b",
+    "朽": "a",
+    "蜜": "n",
+    "果": "x",
+    "卡": "k",
+    "波": "l",
+    "洛": "a",
+    "瓦": "a",
+    "重": "w",
+    "毛": "u",
+    "鸭": "a",
+    "胡": "u",
+    "獭": "n",
+    "厉": "l",
+    "毒": "i",
+    "修": "d",
+    "萝": "u",
+    "小": "d",
+    "友": "y",
+    "爱": "o",
+    "天": "u",
+    "飞": "a",
+    "古": "g",
+    "匣": "j",
+    "执": "j",
+    "政": "u",
+    "官": "a",
+    "啦": "u",
+    "多": "l",
+    "蛇": "z",
+    "叮": "d",
+    "卯": "n",
+    "恶": "n",
+    "可": "k",
+    "立": "e",
+    "鸡": "l",
+    "叶": "y",
+    "眼": "e",
+    "号": "h",
+    "吸": "x",
+    "泥": "i",
+    "鸥": "n",
+    "呆": "d",
+    "路": "i",
+    "呼": "h",
+    "猪": "h",
+    "咔": "k",
+    "壳": "k",
+    "鸟": "k",
+    "帽": "g",
+    "德": "u",
+    "咬": "y",
+    "子": "y",
+    "哭": "k",
+    "喵": "m",
+    "呜": "i",
+    "嗜": "s",
+    "嗡": "i",
+    "螺": "i",
+    "嘟": "d",
+    "煲": "d",
+    "锅": "d",
+    "噼": "p",
+    "啪": "i",
+    "圆": "y",
+    "蜘": "a",
+    "蛛": "n",
+    "圣": "s",
+    "代": "h",
+    "甜": "e",
+    "剑": "h",
+    "侍": "e",
+    "从": "n",
+    "翼": "e",
+    "王": "n",
+    "鼠": "i",
+    "储": "h",
+    "水": "u",
+    "枯": "h",
+    "墨": "m",
+    "鱿": "o",
+    "士": "y",
+    "声": "s",
+    "缇": "e",
+    "乙": "e",
+    "栗": "e",
+    "丝": "l",
+    "彩": "u",
+    "方": "o",
+    "丁": "o",
+    "西": "u",
+    "夜": "y",
+    "宿": "e",
+    "颅": "s",
+    "枭": "e",
+    "游": "e",
+    "大": "d",
+    "头": "a",
+    "骨": "t",
+    "耳": "a",
+    "兜": "r",
+    "奇": "q",
+    "丽": "i",
+    "草": "l",
+    "奔": "b",
+    "乐": "e",
+    "鹿": "n",
+    "学": "x",
+    "院": "u",
+    "呱": "e",
+    "烛": "o",
+    "寂": "j",
+    "灭": "i",
+    "寒": "h",
+    "音": "a",
+    "丑": "i",
+    "兔": "a",
+    "爵": "o",
+    "豆": "a",
+    "勇": "i",
+    "狮": "a",
+    "帕": "i",
+    "怂": "i",
+    "猫": "a",
+    "面": "a",
+    "独": "i",
+    "角": "a",
+    "鹫": "a",
+    "甲": "i",
+    "企": "a",
+    "鹅": "o",
+    "皮": "i",
+    "球": "a",
+    "箱": "i",
+    "怪": "a",
+    "绒": "i",
+    "茧": "a",
+    "雪": "i",
+    "人": "a",
+    "鹬": "i",
+    "黑": "i",
+    "鼓": "i",
+    "象": "a",
+    "尖": "j",
+    "嘴": "i",
+    "仙": "n",
+    "岚": "l",
+    "噬": "u",
+    "针": "s",
+    "鼹": "h",
+    "石": "l",
+    "棱": "k",
+    "岩": "e",
+    "是": "u",
+    "瓜": "u",
+    "帅": "s",
+    "偶": "a",
+    "萨": "e",
+    "娃": "o",
+    "幻": "h",
+    "影": "u",
+    "冥": "o",
+    "树": "u",
+    "库": "k",
+    "鲨": "i",
+    "狸": "i",
+    "徘": "p",
+    "徊": "a",
+    "爪": "i",
+    "快": "k",
+    "鳍": "u",
+    "忽": "h",
+    "怒": "n",
+    "目": "u",
+    "怖": "b",
+    "须": "u",
+    "狼": "o",
+    "红": "o",
+    "主": "u",
+    "犬": "z",
+    "抱": "b",
+    "枕": "a",
+    "松": "o",
+    "抹": "m",
+    "茶": "o",
+    "特": "a",
+    "捕": "b",
+    "尘": "u",
+    "长": "c",
+    "斑": "b",
+    "旋": "x",
+    "云": "i",
+    "旅": "n",
+    "春": "c",
+    "团": "h",
+    "晕": "y",
+    "晶": "j",
+    "蝎": "n",
+    "蜗": "n",
+    "暗": "a",
+    "暮": "m",
+    "辰": "x",
+    "曜": "y",
+    "月": "y",
+    "亮": "u",
+    "牙": "u",
+    "熊": "y",
+    "朔": "s",
+    "芙": "o",
+    "机": "j",
+    "幕": "i",
+    "舟": "u",
+    "械": "i",
+    "权": "q",
+    "杖": "u",
+    "仔": "o",
+    "羊": "n",
+    "板": "b",
+    "冻": "u",
+    "柴": "c",
+    "渣": "h",
+    "格": "g",
+    "种": "l",
+    "梦": "m",
+    "悠": "e",
+    "想": "e",
+    "三": "n",
+    "棋": "q",
+    "祈": "i",
+    "督": "q",
+    "绮": "i",
+    "后": "q",
+    "骑": "i",
+    "齐": "i",
+    "垒": "q",
+    "森": "s",
+    "蛮": "e",
+    "椰": "y",
+    "浆": "e",
+    "武": "w",
+    "气": "q",
+    "泡": "h",
+    "滴": "h",
+    "蓝": "h",
+    "锁": "u",
+    "治": "z",
+    "愈": "h",
+    "吼": "i",
+    "流": "l",
+    "明": "i",
+    "坎": "u",
+    "浪": "i",
+    "枝": "a",
+    "豹": "a",
+    "战": "i",
+    "船": "i",
+    "消": "x",
+    "深": "s",
+    "渊": "h",
+    "鲸": "e",
+    "混": "h",
+    "乱": "u",
+    "溯": "s",
+    "源": "u",
+    "火": "h",
+    "焰": "u",
+    "神": "u",
+    "炫": "x",
+    "迪": "a",
+    "炮": "p",
+    "米": "a",
+    "点": "d",
+    "炽": "c",
+    "心": "h",
+    "热": "h",
+    "烈": "l",
+    "烟": "y",
+    "伯": "n",
+    "熔": "r",
+    "燃": "r",
+    "薪": "a",
+    "燕": "y",
+    "爆": "b",
+    "喷": "o",
+    "爬": "p",
+    "牵": "q",
+    "线": "i",
+    "木": "a",
+    "犀": "x",
+    "猴": "h",
+    "麦": "o",
+    "獠": "l",
+    "珀": "p",
+    "鼬": "e",
+    "琉": "l",
+    "璃": "i",
+    "母": "l",
+    "瑰": "g",
+    "田": "i",
+    "颈": "n",
+    "咩": "i",
+    "画": "h",
+    "精": "u",
+    "间": "u",
+    "沉": "a",
+    "铁": "j",
+    "法": "a",
+    "师": "j",
+    "疾": "j",
+    "白": "b",
+    "发": "a",
+    "懒": "i",
+    "金": "a",
+    "皇": "h",
+    "家": "u",
+    "睡": "s",
+    "铃": "h",
+    "瞌": "k",
+    "矮": "a",
+    "脚": "i",
+    "冠": "h",
+    "蜥": "g",
+    "肤": "h",
+    "矿": "k",
+    "碎": "s",
+    "离": "l",
+    "舞": "x",
+    "秩": "z",
+    "序": "h",
+    "稻": "d",
+    "空": "k",
+    "窃": "q",
+    "蚊": "e",
+    "紫": "z",
+    "翎": "i",
+    "绅": "s",
+    "绿": "l",
+    "罗": "l",
+    "隐": "u",
+    "翠": "c",
+    "顶": "u",
+    "夫": "i",
+    "翡": "f",
+    "翻": "f",
+    "蝠": "n",
+    "魅": "i",
+    "胆": "d",
+    "鳗": "n",
+    "桃": "u",
+    "脆": "c",
+    "筒": "u",
+    "芋": "y",
+    "香": "u",
+    "羚": "a",
+    "衣": "u",
+    "魁": "u",
+    "芽": "y",
+    "苞": "b",
+    "荆": "j",
+    "莫": "m",
+    "比": "o",
+    "菊": "j",
+    "梨": "h",
+    "落": "l",
+    "陨": "u",
+    "蒲": "p",
+    "英": "g",
+    "珠": "a",
+    "蓬": "p",
+    "骸": "g",
+    "蝴": "h",
+    "陶": "d",
+    "裘": "q",
+    "觅": "m",
+    "记": "j",
+    "忆": "i",
+    "瑟": "e",
+    "贪": "t",
+    "食": "a",
+    "足": "z",
+    "元": "j",
+    "件": "i",
+    "蹦": "b",
+    "床": "e",
+    "辉": "h",
+    "迷": "m",
+    "你": "i",
+    "逗": "d",
+    "遁": "d",
+    "邪": "x",
+    "鄙": "b",
+    "酷": "k",
+    "里": "l",
+    "奥": "i",
+    "鳐": "l",
+    "巡": "e",
+    "林": "n",
+    "钨": "w",
+    "铆": "m",
+    "钉": "a",
+    "铠": "k",
+    "锤": "c",
+    "鹳": "u",
+    "锥": "z",
+    "闪": "s",
     "阿": "a",
-    "米": "mi",
-    "亚": "ya",
-    "特": "te",
-    "樱": "ying",
-    "罗": "luo",
-    "隐": "yin",
-    "风": "feng",
-    "鲨": "sha",
-    "彩": "cai",
-    "仪": "yi",
-    "使": "shi",
-    "者": "zhe",
-    "式": "shi",
-    "之": "zhi",
-    "像": "xiang",
-    "独": "du",
-    "角": "jiao",
-    "金": "jin",
-    "旋": "xuan",
-    "滚": "gun",
-    "暮": "mu",
-    "师": "shi",
-    "忽": "hu",
-    "狸": "li",
-    "多": "duo",
-    "啦": "la",
-    "古": "gu",
-    "哭": "ku",
-    "怖": "bu",
-    "须": "xu",
-    "狼": "lang",
-    "企": "qi",
-    "豆": "dou",
-    "丁": "ding",
-    "蛮": "man",
-    "呼": "hu",
-    "猪": "zhu",
-    "獠": "liao",
-    "牙": "ya",
-    "冰": "bing",
-    "封": "feng",
-    "怨": "yuan",
-    "大": "da",
-    "帽": "mao",
-    "兜": "dou",
-    "权": "quan",
-    "杖": "zhang",
-    "狐": "hu",
-    "九": "jiu",
-    "尖": "jian",
-    "嘴": "zui",
-    "仙": "xian",
-    "里": "li",
-    "奥": "ao",
-    "勇": "yong",
-    "士": "shi",
-    "圣": "sheng",
-    "仔": "zai",
-    "巡": "xun",
-    "林": "lin",
-    "炽": "chi",
-    "心": "xin",
-    "滴": "di",
-    "蛇": "she",
-    "锁": "suo",
-    "平": "ping",
-    "鸽": "ge",
-    "怂": "song",
-    "怒": "nu",
-    "目": "mu",
-    "鹫": "jiu",
-    "皇": "huang",
-    "家": "jia",
-    "圆": "yuan",
-    "蜘": "zhi",
-    "蛛": "zhu",
-    "芋": "yu",
-    "香": "xiang",
-    "螺": "luo",
-    "消": "xiao",
-    "嗜": "shi",
-    "斑": "ban",
-    "枭": "xiao",
-    "豹": "bao",
-    "战": "zhan",
-    "船": "chuan",
-    "长": "zhang",
-    "号": "hao",
-    "鱼": "yu",
-    "甜": "tian",
-    "田": "tian",
-    "乙": "yi",
-    "洛": "luo",
-    "棋": "qi",
-    "骑": "qi",
-    "齐": "qi",
-    "垒": "lei",
-    "祈": "qi",
-    "督": "du",
-    "绮": "qi",
-    "奔": "ben",
-    "流": "liu",
-    "浪": "lang",
-    "呆": "dai",
-    "路": "lu",
-    "舞": "wu",
-    "逗": "dou",
-    "气": "qi",
-    "想": "xiang",
-    "三": "san",
-    "鳗": "man",
-    "雷": "lei",
-    "龙": "long",
-    "酷": "ku",
-    "闪": "shan",
-    "环": "huan",
-    "荆": "jing",
-    "箱": "xiang",
-    "怪": "guai",
-    "迷": "mi",
-    "钟": "zhong",
-    "寒": "han",
-    "矮": "ai",
-    "脚": "jiao",
-    "红": "hong",
-    "钻": "zuan",
-    "烈": "lie",
-    "守": "shou",
-    "鳐": "yao",
-    "枝": "zhi",
-    "西": "xi",
-    "库": "ku",
-    "颈": "jing",
-    "鹿": "lu",
-    "乐": "le",
-    "爵": "jue",
-    "缇": "ti",
-    "塔": "ta",
-    "声": "sheng",
-    "鹬": "yu",
-    "鄙": "bi",
-    "高": "gao",
-    "脆": "cui",
-    "筒": "tong",
-    "代": "dai",
-    "轮": "lun",
-    "砣": "tuo",
-    "月": "yue",
-    "亮": "liang",
-    "快": "kuai",
-    "鳍": "qi",
-    "胆": "dan",
-    "翡": "fei",
-    "母": "mu",
-    "琉": "liu",
-    "璃": "li",
-    "裘": "qiu",
-    "可": "ke",
-    "爱": "ai",
-    "热": "re",
-    "鲁": "lu",
-    "斯": "si",
-    "治": "zhi",
-    "愈": "yu",
-    "兔": "tu",
-    "丝": "si",
-    "十": "shi",
-    "字": "zi",
-    "乌": "wu",
-    "达": "da",
-    "你": "ni",
-    "帕": "pa",
-    "机": "ji",
-    "械": "xie",
-    "方": "fang",
-    "立": "li",
-    "鸡": "ji",
-    "晕": "yun",
-    "绅": "shen",
-    "武": "wu",
-    "优": "you",
-    "噼": "pi",
-    "啪": "pa",
-    "深": "shen",
-    "鲸": "jing",
-    "格": "ge",
-    "枯": "ku",
-    "遁": "dun",
-    "储": "chu",
-    "墨": "mo",
-    "鱿": "you",
-    "混": "hun",
-    "乱": "luan",
-    "秩": "zhi",
-    "序": "xu",
-    "甲": "jia",
-    "铠": "kai",
-    "剑": "jian",
-    "侍": "shi",
-    "从": "cong",
-    "吸": "xi",
-    "泥": "ni",
-    "鸥": "ou",
-    "吼": "hou",
-    "骨": "gu",
-    "寂": "ji",
-    "灭": "mie",
-    "厉": "li",
-    "毒": "du",
-    "萝": "luo",
-    "修": "xiu",
-    "尔": "er",
-    "萨": "sa",
-    "息": "xi",
-    "捕": "bu",
-    "尘": "chen",
-    "短": "duan",
-    "画": "hua",
-    "间": "jian",
-    "法": "fa",
-    "手": "shou",
-    "沉": "chen",
-    "铁": "tie",
-    "书": "shu",
-    "执": "zhi",
-    "政": "zheng",
-    "官": "guan",
-    "匣": "xia",
-    "茧": "jian",
-    "犀": "xi",
-    "纤": "xian",
-    "疾": "ji",
-    "果": "guo",
-    "冻": "dong",
-    "抹": "mo",
-    "茶": "cha",
-    "椰": "ye",
-    "浆": "jiang",
-    "熔": "rong",
-    "落": "luo",
-    "陨": "yun",
-    "双": "shuang",
-    "灯": "deng",
-    "利": "li",
-    "熊": "xiong",
-    "嗡": "weng",
-    "窃": "qie",
-    "蚊": "wen",
-    "柴": "chai",
-    "渣": "zha",
-    "薪": "xin",
-    "空": "kong",
-    "颅": "lu",
-    "宿": "su",
-    "皮": "pi",
-    "瑟": "se",
-    "加": "jia",
-    "瓜": "gua",
-    "蝌": "ke",
-    "上": "shang",
-    "岸": "an",
-    "蛙": "wa",
-    "雅": "ya",
-    "丹": "dan",
-    "鬃": "zong",
-    "春": "chun",
-    "团": "tuan",
-    "曜": "yao",
-    "辰": "chen",
-    "钨": "wu",
-    "辉": "hui",
-    "幕": "mu",
-    "舟": "zhou",
-    "凡": "fan",
-    "翎": "ling",
-    "鹰": "ying",
-    "爆": "bao",
-    "喷": "pen",
-    "猴": "hou",
-    "麦": "mai",
-    "碟": "die",
-    "油": "you",
-    "葵": "kui",
-    "蟹": "xie",
-    "单": "dan",
-    "丑": "chou",
-    "烟": "yan",
-    "伯": "bo",
-    "咕": "gu",
-    "德": "de",
-    "炫": "xuan",
-    "霹": "pi",
-    "雳": "li",
-    "鼓": "gu",
-    "象": "xiang",
-    "牵": "qian",
-    "线": "xian",
-    "木": "mu",
-    "偶": "ou",
-    "帅": "shuai",
-    "学": "xue",
-    "院": "yuan",
-    "呱": "gu",
-    "无": "wu",
-    "孵": "fu",
-    "蛋": "dan",
-    "洋": "yang",
-    "组": "zu",
-    "昆": "kun",
-    "植": "zhi",
-    "物": "wu",
-    "软": "ruan",
-    "体": "ti",
-    "妖": "yao",
-    "拟": "ni",
-    "两": "liang",
-    "栖": "qi"
+    "樱": "i",
+    "障": "z",
+    "雅": "y",
+    "丹": "a",
+    "鬃": "d",
+    "鸣": "e",
+    "霹": "p",
+    "雳": "i",
+    "宝": "l",
+    "碟": "i",
+    "速": "i",
+    "风": "f",
+    "滚": "e",
+    "钥": "i",
+    "短": "i",
+    "饮": "y",
+    "狂": "n",
+    "高": "g",
+    "眷": "o",
+    "巫": "c",
+    "吉": "a",
+    "黄": "h",
+    "息": "o"
   }
 }
